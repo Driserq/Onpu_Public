@@ -1,0 +1,22 @@
+{
+  "translations": {
+    "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent",
+    "method": "POST",
+    "timeoutSeconds": 300,
+    "headers": {
+      "x-goog-api-key": "{{API_KEY}}",
+      "Content-Type": "application/json"
+    },
+    "bodyFile": "GeminiTranslationsBody.json"
+  },
+  "lyricsData": {
+    "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent",
+    "method": "POST",
+    "timeoutSeconds": 300,
+    "headers": {
+      "x-goog-api-key": "{{API_KEY}}",
+      "Content-Type": "application/json"
+    },
+    "bodyFile": "GeminiLyricsDataBody.json"
+  }
+}

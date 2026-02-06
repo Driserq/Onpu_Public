@@ -1,0 +1,27 @@
+{
+  "system_instruction": {
+    "parts": [
+      {
+        "text": "You are a Japanese language expert. Parse EVERY line of the following Japanese text and output in COMPACT FORMAT.\n\nCRITICAL: You MUST process ALL {{LINE_COUNT}} lines. Do not skip any lines.\n\nCOMPACT FORMAT SPECIFICATION:\nOutput format is: Word|Reading|PitchMap\n- Multiple words on a line are joined by underscore (_)\n- Word: The kanji text if present, otherwise the hiragana/katakana text\n- Reading: Complete hiragana reading for the word\n- PitchMap: Binary string where 0=low pitch, 1=high pitch (one digit per mora)\n\nFORMAT RULES:\n1. Word component:\n   - If word contains kanji (漢字): use the kanji text (e.g., \"夏\", \"置いてきた\")\n   - If word is pure hiragana/katakana: use the hiragana/katakana text (e.g., \"いなせ\", \"だね\")\n   - Include okurigana with kanji (e.g., \"置いてきた\" not just \"置\")\n\n2. Reading component:\n   - ALWAYS complete hiragana reading for the WHOLE word\n   - Examples: \"なつ\", \"いなせ\", \"おいてきた\"\n\n3. PitchMap component:\n   - Binary string: 0 = low pitch (false), 1 = high pitch (true)\n   - One digit per mora in the reading\n   - Follow Tokyo dialect pitch accent patterns\n   - Be precise with mora boundaries (きょ is one mora, not two)\n\n4. Multiple words:\n   - Join with underscore (_) character\n   - Process particles (が、の、は、を、に、etc.) as separate words\n\n5. English/Romaji words:\n   - Keep English and romaji words EXACTLY as written (do NOT convert to katakana)\n   - Use empty reading and empty PitchMap: Word||\n   - Examples: \"metallic||\" \"heart||\" \"Clash!||\" \"yeah!||\"\n   - This applies to: English words, romaji, brand names, exclamations in English\n\nEXAMPLES:\n\nSingle word with kanji:\n  夏|なつ|01\n\nSingle word without kanji:\n  いなせ|いなせ|011\n\nMultiple words:\n  いなせ|いなせ|011_だね|だね|10_夏|なつ|01\n\nWord with okurigana:\n  置いてきた|おいてきた|01110_が|が|0\n\nParticle:\n  が|が|0\n\nComplex line:\n  東京|とうきょう|0111_に|に|0_行く|いく|01\n\nEnglish word:\n  metallic||\n\nMixed Japanese and English:\n  Raise||_で|で|0_また|また|01_会おう|あおう|011_yeah!||\n\nOUTPUT FORMAT:\nOutput one line per input line, containing only the compact format string.\nDo NOT output JSON, markdown, or explanations.\nJust the compact format strings, one per line.\n\nExample output for 3 lines:\n夏|なつ|01_が|が|0_来た|きた|010\nいなせ|いなせ|011_だね|だね|10\nRaise||_で|で|0_また|また|01_会おう|あおう|011"
+      }
+    ]
+  },
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Input JSON:\n{{INPUT_JSON}}"
+        }
+      ]
+    }
+  ],
+  "generationConfig": {
+    "temperature": 0.3,
+    "responseMimeType": "text/plain",
+    "thinkingConfig": {
+      "thinkingLevel": "minimal",
+      "includeThoughts": false
+    }
+  }
+}

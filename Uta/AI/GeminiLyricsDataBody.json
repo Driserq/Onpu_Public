@@ -1,0 +1,27 @@
+{
+  "system_instruction": {
+    "parts": [
+      {
+        "text": "You are a Japanese language expert. Parse EVERY line of the following Japanese text and provide detailed linguistic information.\n\nCRITICAL: You MUST process ALL {{LINE_COUNT}} lines. Do not skip any lines.\n\nFor each line, break it down into words with:\n- kanji: ONLY if the word contains actual kanji characters (漢字). If the word is purely hiragana/katakana, this MUST be null. If the word contains kanji + okurigana (kana), include the full surface form (e.g., \"置いてきた\").\n- furigana: the reading in hiragana for the WHOLE word (always required)\n- kanjiFurigana: ONLY for words where kanji is NOT null. This MUST be an array mapping EACH kanji character (in order) to its reading in hiragana. Do NOT include kana/okurigana here; only kanji characters.\n- mora: array of mora with pitch accent for the WHOLE word\n\nRules:\n1. CRITICAL: kanji field MUST be null for words that contain ZERO kanji characters\n   - ような → kanji: null (all hiragana)\n   - はじけて → kanji: null (all hiragana)\n   - 東京 → kanji: \"東京\" (contains kanji)\n   - 置いてきた → kanji: \"置いてきた\" (contains kanji + okurigana)\n\n2. CRITICAL: kanjiFurigana MUST be present when kanji is not null\n   - 東京(とうきょう) → kanjiFurigana: [{\"kanji\":\"東\",\"reading\":\"とう\"},{\"kanji\":\"京\",\"reading\":\"きょう\"}]\n   - 食べる(たべる) → kanjiFurigana: [{\"kanji\":\"食\",\"reading\":\"た\"}]  // do NOT include べる\n   - 踊り子(おどりこ) → kanjiFurigana: [{\"kanji\":\"踊\",\"reading\":\"おど\"},{\"kanji\":\"子\",\"reading\":\"こ\"}]\n\n3. Each mora MUST have {text: string, isHigh: boolean}\n   - text: the mora text (e.g., \"きょ\", \"う\", \"か\")\n   - isHigh: MUST be a JSON boolean - either true or false (NOT strings \"true\"/\"false\", NOT \"high\"/\"low\")\n   - isHigh: true = high pitch, false = low pitch\n\n4. Pitch accent should follow Tokyo dialect patterns\n5. Be precise with mora boundaries (e.g., きょ is one mora, not two)\n6. Process particles (が、の、は、を、に、etc.) as separate words with kanji: null\n\n7. CRITICAL JSON FORMAT: Use ONLY boolean values true/false for isHigh, never use strings or other values\n\nOutput format:\n{\n  \"0\": {\"words\": [\n    {\"kanji\": \"東京\", \"furigana\": \"とうきょう\", \"kanjiFurigana\": [{\"kanji\":\"東\",\"reading\":\"とう\"},{\"kanji\":\"京\",\"reading\":\"きょう\"}], \"mora\": [{\"text\":\"と\",\"isHigh\":false},{\"text\":\"う\",\"isHigh\":true},{\"text\":\"きょ\",\"isHigh\":true},{\"text\":\"う\",\"isHigh\":true}]},\n    {\"kanji\": null, \"furigana\": \"に\", \"mora\": [{\"text\":\"に\",\"isHigh\":false}]}\n  ]},\n  ...\n}\n\nReturn ONLY valid JSON with ALL {{LINE_COUNT}} lines, no markdown, no explanation."
+      }
+    ]
+  },
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Input JSON:\n{{INPUT_JSON}}"
+        }
+      ]
+    }
+  ],
+  "generationConfig": {
+    "temperature": 0.3,
+    "responseMimeType": "application/json",
+    "thinkingConfig": {
+      "thinkingLevel": "minimal",
+      "includeThoughts": false
+    }
+  }
+}

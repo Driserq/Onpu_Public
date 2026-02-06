@@ -1,0 +1,499 @@
+.main {
+  min-height: 100vh;
+}
+
+/* Navigation */
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--background-tertiary);
+}
+
+.navContent {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px 24px;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--accent);
+  text-decoration: none;
+  justify-self: start;
+}
+
+.navLinks {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  justify-self: center;
+}
+
+.navCta {
+  justify-self: end;
+  padding: 10px 20px;
+  background: var(--accent);
+  color: white !important;
+  border-radius: var(--radius-lg);
+  font-weight: 600 !important;
+  text-decoration: none;
+}
+
+.navLinks a {
+  color: var(--foreground);
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.navLinks a:hover {
+  color: var(--accent);
+}
+
+.navCta:hover {
+  color: white !important;
+  opacity: 0.9;
+}
+
+/* Hero */
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 60px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 140px 24px 100px;
+}
+
+.heroContent {
+  flex: 1;
+  max-width: 560px;
+}
+
+.badge {
+  display: inline-block;
+  padding: 8px 16px;
+  background: var(--accent-light);
+  color: var(--accent);
+  border-radius: 100px;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+.headline {
+  font-size: clamp(36px, 5vw, 56px);
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: 24px;
+  letter-spacing: -0.02em;
+}
+
+.kanjiHighlight {
+  color: var(--accent);
+  position: relative;
+}
+
+.subheadline {
+  font-size: 18px;
+  color: var(--foreground-secondary);
+  margin-bottom: 16px;
+  line-height: 1.7;
+}
+
+.cta {
+  margin-top: 24px;
+  padding: 16px 32px;
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: var(--radius-lg);
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(255, 45, 85, 0.3);
+}
+
+.heroVisual {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+/* Phone Mockup */
+.phoneMockup {
+  perspective: 1000px;
+}
+
+.phoneFrame {
+  width: 280px;
+  height: 580px;
+  background: #1a1a1a;
+  border-radius: 40px;
+  padding: 12px;
+  box-shadow: 0 40px 80px var(--shadow-strong), 0 0 0 1px rgba(255,255,255,0.1) inset;
+  transform: rotateY(-5deg) rotateX(2deg);
+  transition: transform 0.4s;
+}
+
+.phoneFrame:hover {
+  transform: rotateY(0deg) rotateX(0deg);
+}
+
+.phoneNotch {
+  width: 100px;
+  height: 28px;
+  background: #1a1a1a;
+  border-radius: 20px;
+  margin: 0 auto 8px;
+}
+
+.phoneScreen {
+  background: var(--background);
+  border-radius: 32px;
+  height: calc(100% - 36px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.previewToolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  border-bottom: 1px solid var(--background-tertiary);
+}
+
+.previewBack {
+  font-size: 24px;
+  color: var(--foreground);
+  font-weight: 300;
+}
+
+.previewActions {
+  display: flex;
+  gap: 8px;
+}
+
+.previewBtn {
+  padding: 6px 12px;
+  border-radius: var(--radius-sm);
+  font-size: 14px;
+  color: var(--foreground-secondary);
+}
+
+.previewBtn.active {
+  background: var(--accent-light);
+  color: var(--accent);
+}
+
+.previewContent {
+  flex: 1;
+  padding: 12px;
+  overflow: hidden;
+}
+
+.lyricLine {
+  padding: 12px;
+  border-radius: var(--radius-sm);
+  margin-bottom: 8px;
+}
+
+.lyricLine.selected {
+  background: rgba(239, 68, 68, 0.08);
+}
+
+.lyricJapanese {
+  position: relative;
+}
+
+.pitchLine {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 4px;
+  padding-left: 2px;
+}
+
+.pitchDot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--pitch-red);
+  position: relative;
+}
+
+.pitchDot.high {
+  transform: translateY(-4px);
+}
+
+.pitchDot.low {
+  transform: translateY(4px);
+  opacity: 0.4;
+}
+
+.lyricText {
+  font-size: 18px;
+  font-weight: 500;
+  display: block;
+  color: var(--foreground);
+}
+
+.lyricReading {
+  font-size: 11px;
+  color: var(--foreground-secondary);
+  display: block;
+  margin-top: 2px;
+}
+
+.lyricTranslation {
+  margin-top: 8px;
+  padding: 10px 12px;
+  background: var(--translation-blue);
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  color: #007aff;
+}
+
+/* Sections */
+.section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 80px 24px;
+}
+
+.sectionTitle {
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 48px;
+  letter-spacing: -0.01em;
+}
+
+/* Steps */
+.steps {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+
+.step {
+  text-align: center;
+  padding: 24px;
+}
+
+.stepNumber {
+  width: 48px;
+  height: 48px;
+  background: var(--accent);
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 auto 20px;
+}
+
+.stepTitle {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.stepDescription {
+  font-size: 15px;
+  color: var(--foreground-secondary);
+  line-height: 1.6;
+}
+
+/* Features */
+.featuresSection {
+  background: var(--background-secondary);
+  max-width: none;
+  padding: 80px 24px;
+}
+
+.featuresSection .sectionTitle {
+  max-width: 1200px;
+  margin: 0 auto 48px;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.featureCard {
+  background: var(--background);
+  padding: 32px;
+  border-radius: var(--radius-lg);
+  box-shadow: 0 4px 20px var(--shadow);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.featureCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px var(--shadow-strong);
+}
+
+.featureIcon {
+  font-size: 32px;
+  margin-bottom: 16px;
+}
+
+.featureTitle {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.featureDescription {
+  font-size: 15px;
+  color: var(--foreground-secondary);
+  line-height: 1.7;
+}
+
+/* FAQ */
+.faqList {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.faqItem {
+  border-bottom: 1px solid var(--background-tertiary);
+  cursor: pointer;
+}
+
+.faqQuestion {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.faqChevron {
+  font-size: 24px;
+  color: var(--accent);
+  font-weight: 300;
+}
+
+.faqAnswer {
+  padding-bottom: 20px;
+  color: var(--foreground-secondary);
+  line-height: 1.7;
+}
+
+.faqOpen .faqQuestion {
+  color: var(--accent);
+}
+
+/* Final CTA */
+.finalCta {
+  text-align: center;
+  padding: 100px 24px 60px;
+  background: linear-gradient(180deg, var(--background) 0%, var(--accent-light) 100%);
+}
+
+.finalCta h2 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.finalCta p {
+  color: var(--foreground-secondary);
+  margin-bottom: 8px;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 40px 24px;
+  color: var(--foreground-secondary);
+  font-size: 14px;
+  background: var(--accent-light);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    padding: 120px 24px 80px;
+  }
+
+  .heroContent {
+    max-width: 100%;
+  }
+
+  .heroVisual {
+    margin-top: 40px;
+  }
+
+  .phoneFrame {
+    transform: none;
+  }
+
+  .steps {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .features {
+    grid-template-columns: 1fr;
+  }
+
+  .navLinks {
+    gap: 20px;
+  }
+
+  .navLinks a:not(.navCta) {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .headline {
+    font-size: 32px;
+  }
+
+  .phoneFrame {
+    width: 240px;
+    height: 500px;
+  }
+
+  .sectionTitle {
+    font-size: 26px;
+  }
+
+  .navContent {
+    padding: 12px 16px;
+  }
+
+  .logo {
+    font-size: 20px;
+  }
+}

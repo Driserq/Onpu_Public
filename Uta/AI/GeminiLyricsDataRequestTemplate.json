@@ -1,0 +1,16 @@
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "You are a Japanese language expert. Parse EVERY line of the following Japanese text and provide detailed linguistic information.\n\nCRITICAL: You MUST process ALL {{LINE_COUNT}} lines. Do not skip any lines.\n\nFor each line, break it down into words with:\n- kanji: ONLY if the word contains actual kanji characters (漢字). If the word is purely hiragana/katakana, this MUST be null.\n- furigana: the reading in hiragana (always required)\n- mora: array of mora with pitch accent\n\nRules:\n1. CRITICAL: kanji field MUST be null for words that contain ZERO kanji characters\n   - ような → kanji: null (all hiragana)\n   - はじけて → kanji: null (all hiragana)\n   - 東京 → kanji: \"東京\" (contains kanji)\n   - 置いてきた → kanji: \"置いてきた\" (contains kanji)\n\n2. Each mora MUST have {text: string, isHigh: boolean}\n   - text: the mora text (e.g., \"きょ\", \"う\", \"か\")\n   - isHigh: MUST be a JSON boolean - either true or false (NOT strings \"true\"/\"false\", NOT \"high\"/\"low\")\n   - isHigh: true = high pitch, false = low pitch\n\n3. Pitch accent should follow Tokyo dialect patterns\n4. Be precise with mora boundaries (e.g., きょ is one mora, not two)\n5. Process particles (が、の、は、を、に、etc.) as separate words with kanji: null\n\n6. CRITICAL JSON FORMAT: Use ONLY boolean values true/false for isHigh, never use strings or other values\n\nOutput format:\n{\n  \"0\": {\"words\": [{\"kanji\": \"東京\", \"furigana\": \"とうきょう\", \"mora\": [{\"text\":\"と\",\"isHigh\":false},{\"text\":\"う\",\"isHigh\":true},{\"text\":\"きょ\",\"isHigh\":true},{\"text\":\"う\",\"isHigh\":true}]}, {\"kanji\": null, \"furigana\": \"に\", \"mora\": [{\"text\":\"に\",\"isHigh\":false}]}]},\n  ...\n}\n\nReturn ONLY valid JSON with ALL {{LINE_COUNT}} lines, no markdown, no explanation.\n\nInput JSON:\n{{INPUT_JSON}}"
+        }
+      ]
+    }
+  ],
+  "generationConfig": {
+    "temperature": 0.3,
+    "responseMimeType": "application/json"
+  }
+}

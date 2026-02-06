@@ -1,0 +1,20 @@
+[00:00:00.628] Server  LOG     ✓ Ready in 452ms
+[00:00:01.909] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:02.658] Browser ERROR   unhandledRejection: {"code":-32603,"message":"Internal JSON-RPC error."}
+[00:00:03.512] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:03.630] Browser ERROR   unhandledRejection: {"code":-32603,"message":"Internal JSON-RPC error."}
+[00:01:07.859] Server  LOG     ✓ Compiled in 124ms
+[00:01:16.072] Server  LOG     ✓ Compiled in 46ms
+[00:01:21.749] Server  LOG     ✓ Compiled in 5ms
+[00:01:36.706] Server  LOG     ✓ Compiled in 18ms
+[00:02:03.081] Server  LOG     ✓ Compiled in 12ms
+[00:02:40.804] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:41.387] Browser ERROR   unhandledRejection: {"code":-32603,"message":"Internal JSON-RPC error."}
+[00:02:54.102] Server  LOG     ✓ Compiled in 52ms
+[00:04:11.835] Server  LOG     ✓ Compiled in 58ms
+[00:04:19.650] Server  LOG     ✓ Compiled in 105ms
+[00:04:26.370] Server  LOG     ✓ Compiled in 14ms
+[00:09:11.531] Server  LOG     ✓ Compiled in 157ms
+[00:09:17.562] Server  LOG     ✓ Compiled in 37ms
+[00:19:15.688] Server  LOG     ✓ Compiled in 138ms
+[00:19:21.105] Server  LOG     ✓ Compiled in 24ms

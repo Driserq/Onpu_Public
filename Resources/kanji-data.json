@@ -1,0 +1,3622 @@
+[
+  {
+    "character": "一",
+    "meaning": "one",
+    "radicals": [
+      "一 (one)"
+    ],
+    "mnemonic": "A single horizontal line—the number one",
+    "onyomi": "イチ",
+    "kunyomi": "ひと(つ)",
+    "level": "N5"
+  },
+  {
+    "character": "二",
+    "meaning": "two",
+    "radicals": [
+      "二 (two)"
+    ],
+    "mnemonic": "Two horizontal lines stacked—the number two",
+    "onyomi": "ニ",
+    "kunyomi": "ふた(つ)",
+    "level": "N5"
+  },
+  {
+    "character": "三",
+    "meaning": "three",
+    "radicals": [
+      "三 (three)"
+    ],
+    "mnemonic": "Three horizontal lines—the number three",
+    "onyomi": "サン",
+    "kunyomi": "みっ(つ)",
+    "level": "N5"
+  },
+  {
+    "character": "四",
+    "meaning": "four",
+    "radicals": [
+      "囗 (box)",
+      "八 (eight)"
+    ],
+    "mnemonic": "Box containing something—the number four",
+    "onyomi": "シ",
+    "kunyomi": "よ(つ)",
+    "level": "N5"
+  },
+  {
+    "character": "五",
+    "meaning": "five",
+    "radicals": [
+      "五 (five)"
+    ],
+    "mnemonic": "Cross with horizontal line—the number five",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ(つ)",
+    "level": "N5"
+  },
+  {
+    "character": "六",
+    "meaning": "six",
+    "radicals": [
+      "亠 (lid)",
+      "八 (eight)"
+    ],
+    "mnemonic": "Lid sitting on top—the number six",
+    "onyomi": "ロク",
+    "kunyomi": "む(つ)",
+    "level": "N5"
+  },
+  {
+    "character": "七",
+    "meaning": "seven",
+    "radicals": [
+      "七 (seven)"
+    ],
+    "mnemonic": "Knife cutting across—the number seven",
+    "onyomi": "シチ",
+    "kunyomi": "なな(つ)",
+    "level": "N5"
+  },
+  {
+    "character": "八",
+    "meaning": "eight",
+    "radicals": [
+      "八 (eight)"
+    ],
+    "mnemonic": "Spreading like a tree—the number eight",
+    "onyomi": "ハチ",
+    "kunyomi": "や(つ)",
+    "level": "N5"
+  },
+  {
+    "character": "九",
+    "meaning": "nine",
+    "radicals": [
+      "丿 (slash)",
+      "ㄱ (hook)"
+    ],
+    "mnemonic": "Hook catching things—the number nine",
+    "onyomi": "キュウ",
+    "kunyomi": "ここ(のつ)",
+    "level": "N5"
+  },
+  {
+    "character": "十",
+    "meaning": "ten",
+    "radicals": [
+      "十 (cross)"
+    ],
+    "mnemonic": "Perfect cross—the number ten",
+    "onyomi": "ジュウ",
+    "kunyomi": "とお",
+    "level": "N5"
+  },
+  {
+    "character": "百",
+    "meaning": "hundred",
+    "radicals": [
+      "一 (one)",
+      "白 (white)"
+    ],
+    "mnemonic": "One on top of white—a hundred",
+    "onyomi": "ヒャク",
+    "kunyomi": "もも",
+    "level": "N5"
+  },
+  {
+    "character": "千",
+    "meaning": "thousand",
+    "radicals": [
+      "十 (cross)",
+      "丿 (slash)"
+    ],
+    "mnemonic": "Cross with slash—a thousand",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "level": "N5"
+  },
+  {
+    "character": "万",
+    "meaning": "ten thousand",
+    "radicals": [
+      "万 (ten thousand)"
+    ],
+    "mnemonic": "Zigzag shape—ten thousand",
+    "onyomi": "マン",
+    "kunyomi": "よろず",
+    "level": "N5"
+  },
+  {
+    "character": "人",
+    "meaning": "person, human",
+    "radicals": [
+      "人 (person)"
+    ],
+    "mnemonic": "Two legs standing—a person",
+    "onyomi": "ジン",
+    "kunyomi": "ひと",
+    "level": "N5"
+  },
+  {
+    "character": "男",
+    "meaning": "man, male",
+    "radicals": [
+      "田 (rice field)",
+      "力 (power)"
+    ],
+    "mnemonic": "Power working the fields—the working man",
+    "onyomi": "ダン",
+    "kunyomi": "おとこ",
+    "level": "N5"
+  },
+  {
+    "character": "女",
+    "meaning": "woman, female",
+    "radicals": [
+      "女 (woman)"
+    ],
+    "mnemonic": "Kneeling figure—woman in traditional form",
+    "onyomi": "ジョ",
+    "kunyomi": "おんな",
+    "level": "N5"
+  },
+  {
+    "character": "子",
+    "meaning": "child, small thing",
+    "radicals": [
+      "子 (child)"
+    ],
+    "mnemonic": "Swaddled baby with arms out",
+    "onyomi": "シ",
+    "kunyomi": "こ",
+    "level": "N5"
+  },
+  {
+    "character": "父",
+    "meaning": "father",
+    "radicals": [
+      "八 (eight)",
+      "力 (power)"
+    ],
+    "mnemonic": "Eight times the power—the father",
+    "onyomi": "フ",
+    "kunyomi": "ちち",
+    "level": "N5"
+  },
+  {
+    "character": "母",
+    "meaning": "mother",
+    "radicals": [
+      "女 (woman)",
+      "乇 (hand)"
+    ],
+    "mnemonic": "Woman with hands protecting—the mother",
+    "onyomi": "ボ",
+    "kunyomi": "はは",
+    "level": "N5"
+  },
+  {
+    "character": "兄",
+    "meaning": "older brother",
+    "radicals": [
+      "八 (eight)",
+      "口 (mouth)"
+    ],
+    "mnemonic": "Eight mouths to speak—the older brother",
+    "onyomi": "キョウ",
+    "kunyomi": "あに",
+    "level": "N5"
+  },
+  {
+    "character": "弟",
+    "meaning": "younger brother",
+    "radicals": [
+      "弓 (bow)",
+      "彳 (step)"
+    ],
+    "mnemonic": "Walking behind with a bow—the younger brother",
+    "onyomi": "テイ",
+    "kunyomi": "おとうと",
+    "level": "N5"
+  },
+  {
+    "character": "姉",
+    "meaning": "older sister",
+    "radicals": [
+      "女 (woman)",
+      "市 (market)"
+    ],
+    "mnemonic": "Woman at market—the older sister",
+    "onyomi": "シ",
+    "kunyomi": "あね",
+    "level": "N5"
+  },
+  {
+    "character": "妹",
+    "meaning": "younger sister",
+    "radicals": [
+      "女 (woman)",
+      "末 (end)"
+    ],
+    "mnemonic": "Woman at the end—the younger sister",
+    "onyomi": "マイ",
+    "kunyomi": "いもうと",
+    "level": "N5"
+  },
+  {
+    "character": "手",
+    "meaning": "hand, arm",
+    "radicals": [
+      "手 (hand)"
+    ],
+    "mnemonic": "Picture of a hand with fingers spread",
+    "onyomi": "シュ",
+    "kunyomi": "て",
+    "level": "N5"
+  },
+  {
+    "character": "足",
+    "meaning": "leg, foot, sufficient",
+    "radicals": [
+      "口 (mouth)",
+      "止 (stop)"
+    ],
+    "mnemonic": "Stop at the mouth—your foot grounds you",
+    "onyomi": "ソク",
+    "kunyomi": "あし",
+    "level": "N5"
+  },
+  {
+    "character": "目",
+    "meaning": "eye, look",
+    "radicals": [
+      "目 (eye)"
+    ],
+    "mnemonic": "Square with dot—an eye watching",
+    "onyomi": "モク",
+    "kunyomi": "め",
+    "level": "N5"
+  },
+  {
+    "character": "耳",
+    "meaning": "ear",
+    "radicals": [
+      "耳 (ear)"
+    ],
+    "mnemonic": "Curved shape—the human ear",
+    "onyomi": "ジ",
+    "kunyomi": "みみ",
+    "level": "N5"
+  },
+  {
+    "character": "口",
+    "meaning": "mouth, opening",
+    "radicals": [
+      "口 (mouth)"
+    ],
+    "mnemonic": "Square opening—the mouth",
+    "onyomi": "コウ",
+    "kunyomi": "くち",
+    "level": "N5"
+  },
+  {
+    "character": "歯",
+    "meaning": "tooth, teeth",
+    "radicals": [
+      "止 (stop)",
+      "歯 (tooth)"
+    ],
+    "mnemonic": "Stop and smile—showing your teeth",
+    "onyomi": "シ",
+    "kunyomi": "は",
+    "level": "N4"
+  },
+  {
+    "character": "舌",
+    "meaning": "tongue",
+    "radicals": [
+      "舌 (tongue)"
+    ],
+    "mnemonic": "Mouth with protrusion—the tongue",
+    "onyomi": "ゼツ",
+    "kunyomi": "した",
+    "level": "N4"
+  },
+  {
+    "character": "鼻",
+    "meaning": "nose",
+    "radicals": [
+      "自 (self)",
+      "兼 (overlap)"
+    ],
+    "mnemonic": "Self overlapping—your prominent nose",
+    "onyomi": "ビ",
+    "kunyomi": "はな",
+    "level": "N4"
+  },
+  {
+    "character": "頭",
+    "meaning": "head",
+    "radicals": [
+      "頁 (page)",
+      "豆 (bean)"
+    ],
+    "mnemonic": "Head shaped like a page—the top",
+    "onyomi": "ズ",
+    "kunyomi": "あたま",
+    "level": "N4"
+  },
+  {
+    "character": "心",
+    "meaning": "heart, mind, spirit",
+    "radicals": [
+      "心 (heart)"
+    ],
+    "mnemonic": "Heart shape itself—center of emotions",
+    "onyomi": "シン",
+    "kunyomi": "こころ",
+    "level": "N5"
+  },
+  {
+    "character": "血",
+    "meaning": "blood",
+    "radicals": [
+      "血 (blood)"
+    ],
+    "mnemonic": "Vessel holding liquid—blood",
+    "onyomi": "ケツ",
+    "kunyomi": "ち",
+    "level": "N4"
+  },
+  {
+    "character": "肉",
+    "meaning": "meat, flesh",
+    "radicals": [
+      "月 (moon)",
+      "内 (inside)"
+    ],
+    "mnemonic": "Moon inside the body—flesh and meat",
+    "onyomi": "ニク",
+    "kunyomi": "にく",
+    "level": "N5"
+  },
+  {
+    "character": "日",
+    "meaning": "sun, day",
+    "radicals": [
+      "日 (sun)"
+    ],
+    "mnemonic": "Box with line—picture of the sun",
+    "onyomi": "ニチ",
+    "kunyomi": "ひ",
+    "level": "N5"
+  },
+  {
+    "character": "月",
+    "meaning": "moon, month",
+    "radicals": [
+      "月 (moon)"
+    ],
+    "mnemonic": "Crescent moon shape—the moon itself",
+    "onyomi": "ゲツ",
+    "kunyomi": "つき",
+    "level": "N5"
+  },
+  {
+    "character": "星",
+    "meaning": "star, celestial body",
+    "radicals": [
+      "日 (sun)",
+      "生 (life)"
+    ],
+    "mnemonic": "Sun gives life—stars are distant suns",
+    "onyomi": "セイ",
+    "kunyomi": "ほし",
+    "level": "N5"
+  },
+  {
+    "character": "天",
+    "meaning": "heaven, sky",
+    "radicals": [
+      "一 (one)",
+      "大 (big)"
+    ],
+    "mnemonic": "Big person with line above—the heavens",
+    "onyomi": "テン",
+    "kunyomi": "あま",
+    "level": "N5"
+  },
+  {
+    "character": "地",
+    "meaning": "earth, ground, place",
+    "radicals": [
+      "土 (earth)",
+      "也 (also)"
+    ],
+    "mnemonic": "Earth also exists—solid ground",
+    "onyomi": "チ",
+    "kunyomi": "ち",
+    "level": "N5"
+  },
+  {
+    "character": "空",
+    "meaning": "sky, empty, air",
+    "radicals": [
+      "穴 (hole)",
+      "工 (craft)"
+    ],
+    "mnemonic": "Crafted hole above—the vast empty sky",
+    "onyomi": "クウ",
+    "kunyomi": "そら",
+    "level": "N5"
+  },
+  {
+    "character": "雨",
+    "meaning": "rain",
+    "radicals": [
+      "雨 (rain)"
+    ],
+    "mnemonic": "Picture window with drops—it's raining",
+    "onyomi": "ウ",
+    "kunyomi": "あめ",
+    "level": "N5"
+  },
+  {
+    "character": "雲",
+    "meaning": "cloud",
+    "radicals": [
+      "雨 (rain)",
+      "云 (say)"
+    ],
+    "mnemonic": "Rain speaking from above—a cloud",
+    "onyomi": "ウン",
+    "kunyomi": "くも",
+    "level": "N5"
+  },
+  {
+    "character": "雪",
+    "meaning": "snow",
+    "radicals": [
+      "雨 (rain)",
+      "彗 (broom)"
+    ],
+    "mnemonic": "Rain swept by broom—clean white snow",
+    "onyomi": "セツ",
+    "kunyomi": "ゆき",
+    "level": "N5"
+  },
+  {
+    "character": "光",
+    "meaning": "light, ray, shine",
+    "radicals": [
+      "⺌ (small)",
+      "儿 (legs)"
+    ],
+    "mnemonic": "Small person with legs running—spreading light",
+    "onyomi": "コウ",
+    "kunyomi": "ひかり",
+    "level": "N5"
+  },
+  {
+    "character": "風",
+    "meaning": "wind, breeze, style",
+    "radicals": [
+      "几 (table)",
+      "虫 (insect)"
+    ],
+    "mnemonic": "Insect blown off table—there's wind",
+    "onyomi": "フウ",
+    "kunyomi": "かぜ",
+    "level": "N5"
+  },
+  {
+    "character": "火",
+    "meaning": "fire",
+    "radicals": [
+      "火 (fire)"
+    ],
+    "mnemonic": "Person with flames on sides—fire burning",
+    "onyomi": "カ",
+    "kunyomi": "ひ",
+    "level": "N5"
+  },
+  {
+    "character": "水",
+    "meaning": "water",
+    "radicals": [
+      "水 (water)"
+    ],
+    "mnemonic": "River flowing with drops—water",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "level": "N5"
+  },
+  {
+    "character": "土",
+    "meaning": "soil, earth, ground",
+    "radicals": [
+      "土 (earth)"
+    ],
+    "mnemonic": "Plant growing from ground—the earth",
+    "onyomi": "ド",
+    "kunyomi": "つち",
+    "level": "N5"
+  },
+  {
+    "character": "木",
+    "meaning": "tree, wood",
+    "radicals": [
+      "木 (tree)"
+    ],
+    "mnemonic": "Picture of tree with branches",
+    "onyomi": "モク",
+    "kunyomi": "き",
+    "level": "N5"
+  },
+  {
+    "character": "森",
+    "meaning": "forest",
+    "radicals": [
+      "木 (tree)",
+      "木 (tree)",
+      "木 (tree)"
+    ],
+    "mnemonic": "Three trees together—a dense forest",
+    "onyomi": "シン",
+    "kunyomi": "もり",
+    "level": "N5"
+  },
+  {
+    "character": "山",
+    "meaning": "mountain",
+    "radicals": [
+      "山 (mountain)"
+    ],
+    "mnemonic": "Three peaks—a mountain range",
+    "onyomi": "サン",
+    "kunyomi": "やま",
+    "level": "N5"
+  },
+  {
+    "character": "川",
+    "meaning": "river, stream",
+    "radicals": [
+      "川 (river)"
+    ],
+    "mnemonic": "Three lines flowing—a river",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "level": "N5"
+  },
+  {
+    "character": "海",
+    "meaning": "sea, ocean",
+    "radicals": [
+      "氵 (water)",
+      "每 (every)"
+    ],
+    "mnemonic": "Water everywhere—that's the ocean",
+    "onyomi": "カイ",
+    "kunyomi": "うみ",
+    "level": "N5"
+  },
+  {
+    "character": "島",
+    "meaning": "island",
+    "radicals": [
+      "島 (island)"
+    ],
+    "mnemonic": "Mountain in the water—an island",
+    "onyomi": "トウ",
+    "kunyomi": "しま",
+    "level": "N5"
+  },
+  {
+    "character": "湖",
+    "meaning": "lake",
+    "radicals": [
+      "氵 (water)",
+      "胡 (confused)"
+    ],
+    "mnemonic": "Confusing water surrounding—a lake",
+    "onyomi": "コ",
+    "kunyomi": "みずうみ",
+    "level": "N4"
+  },
+  {
+    "character": "春",
+    "meaning": "spring, springtime",
+    "radicals": [
+      "三 (three)",
+      "人 (person)",
+      "日 (sun)"
+    ],
+    "mnemonic": "Three people enjoying the sun—springtime",
+    "onyomi": "シュン",
+    "kunyomi": "はる",
+    "level": "N5"
+  },
+  {
+    "character": "夏",
+    "meaning": "summer",
+    "radicals": [
+      "頁 (head)",
+      "夂 (walk)"
+    ],
+    "mnemonic": "Walking with covered head—hot summer",
+    "onyomi": "カ",
+    "kunyomi": "なつ",
+    "level": "N5"
+  },
+  {
+    "character": "秋",
+    "meaning": "autumn, fall",
+    "radicals": [
+      "禾 (grain)",
+      "火 (fire)"
+    ],
+    "mnemonic": "Grain burning red—autumn harvest",
+    "onyomi": "シュウ",
+    "kunyomi": "あき",
+    "level": "N5"
+  },
+  {
+    "character": "冬",
+    "meaning": "winter",
+    "radicals": [
+      "冫 (ice)",
+      "夂 (walk)"
+    ],
+    "mnemonic": "Walking on ice—cold winter",
+    "onyomi": "トウ",
+    "kunyomi": "ふゆ",
+    "level": "N5"
+  },
+  {
+    "character": "花",
+    "meaning": "flower, blossom",
+    "radicals": [
+      "艹 (grass)",
+      "化 (change)"
+    ],
+    "mnemonic": "Grass that changes—it blooms into flowers",
+    "onyomi": "カ",
+    "kunyomi": "はな",
+    "level": "N5"
+  },
+  {
+    "character": "草",
+    "meaning": "grass, herb",
+    "radicals": [
+      "艹 (grass)"
+    ],
+    "mnemonic": "Growing grass sprouting—weeds and herbs",
+    "onyomi": "ソウ",
+    "kunyomi": "くさ",
+    "level": "N5"
+  },
+  {
+    "character": "色",
+    "meaning": "color, passion",
+    "radicals": [
+      "⺈ (wrap)",
+      "巴 (comma)"
+    ],
+    "mnemonic": "Wrapping around—colors embrace you",
+    "onyomi": "シキ",
+    "kunyomi": "いろ",
+    "level": "N5"
+  },
+  {
+    "character": "赤",
+    "meaning": "red, crimson",
+    "radicals": [
+      "土 (earth)",
+      "火 (fire)"
+    ],
+    "mnemonic": "Fire on earth—burning red",
+    "onyomi": "セキ",
+    "kunyomi": "あか",
+    "level": "N5"
+  },
+  {
+    "character": "青",
+    "meaning": "blue, green, young",
+    "radicals": [
+      "生 (life)",
+      "月 (moon)"
+    ],
+    "mnemonic": "Life under the moon—blue and fresh",
+    "onyomi": "セイ",
+    "kunyomi": "あお",
+    "level": "N5"
+  },
+  {
+    "character": "白",
+    "meaning": "white, pure",
+    "radicals": [
+      "白 (white)"
+    ],
+    "mnemonic": "Sun rays—pure white light",
+    "onyomi": "ハク",
+    "kunyomi": "しろ",
+    "level": "N5"
+  },
+  {
+    "character": "黒",
+    "meaning": "black, dark",
+    "radicals": [
+      "里 (village)",
+      "灬 (fire)"
+    ],
+    "mnemonic": "Village burnt by fire—everything turns black",
+    "onyomi": "コク",
+    "kunyomi": "くろ",
+    "level": "N5"
+  },
+  {
+    "character": "黄",
+    "meaning": "yellow",
+    "radicals": [
+      "黄 (yellow)"
+    ],
+    "mnemonic": "Sun colored—golden yellow",
+    "onyomi": "オウ",
+    "kunyomi": "き",
+    "level": "N5"
+  },
+  {
+    "character": "時",
+    "meaning": "time, hour",
+    "radicals": [
+      "日 (sun)",
+      "寺 (temple)"
+    ],
+    "mnemonic": "Sun at temple—time for prayers",
+    "onyomi": "ジ",
+    "kunyomi": "とき",
+    "level": "N5"
+  },
+  {
+    "character": "朝",
+    "meaning": "morning",
+    "radicals": [
+      "十 (ten)",
+      "日 (sun)",
+      "月 (moon)"
+    ],
+    "mnemonic": "Moon fading as sun rises—morning",
+    "onyomi": "チョウ",
+    "kunyomi": "あさ",
+    "level": "N5"
+  },
+  {
+    "character": "昼",
+    "meaning": "daytime, noon",
+    "radicals": [
+      "尺 (measure)",
+      "日 (sun)"
+    ],
+    "mnemonic": "Sun at highest measure—noon",
+    "onyomi": "チュウ",
+    "kunyomi": "ひる",
+    "level": "N5"
+  },
+  {
+    "character": "夜",
+    "meaning": "night, evening",
+    "radicals": [
+      "亠 (lid)",
+      "人 (person)",
+      "夕 (evening)"
+    ],
+    "mnemonic": "Person under lid in evening—it's nighttime",
+    "onyomi": "ヤ",
+    "kunyomi": "よる",
+    "level": "N5"
+  },
+  {
+    "character": "年",
+    "meaning": "year, age",
+    "radicals": [
+      "干 (dry)",
+      "一 (one)"
+    ],
+    "mnemonic": "Person carrying grain harvest—a year's worth",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "level": "N5"
+  },
+  {
+    "character": "週",
+    "meaning": "week",
+    "radicals": [
+      "辶 (road)",
+      "周 (around)"
+    ],
+    "mnemonic": "Going around—a full week cycle",
+    "onyomi": "シュウ",
+    "kunyomi": "しゅう",
+    "level": "N5"
+  },
+  {
+    "character": "前",
+    "meaning": "front, before",
+    "radicals": [
+      "刀 (sword)",
+      "月 (moon)"
+    ],
+    "mnemonic": "Sword cutting the moon—moving forward",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ",
+    "level": "N5"
+  },
+  {
+    "character": "後",
+    "meaning": "after, behind, later",
+    "radicals": [
+      "彳 (step)",
+      "幺 (small)",
+      "攵 (strike)"
+    ],
+    "mnemonic": "Walking slowly behind—coming after",
+    "onyomi": "ゴ",
+    "kunyomi": "あと",
+    "level": "N5"
+  },
+  {
+    "character": "間",
+    "meaning": "interval, space, time",
+    "radicals": [
+      "門 (gate)",
+      "日 (sun)"
+    ],
+    "mnemonic": "Sun through the gate—the space between",
+    "onyomi": "カン",
+    "kunyomi": "あいだ",
+    "level": "N5"
+  },
+  {
+    "character": "見",
+    "meaning": "see, look at, watch",
+    "radicals": [
+      "目 (eye)",
+      "儿 (legs)"
+    ],
+    "mnemonic": "Eye on legs—walking around to see things",
+    "onyomi": "ケン",
+    "kunyomi": "み(る)",
+    "level": "N5"
+  },
+  {
+    "character": "聞",
+    "meaning": "hear, listen, ask",
+    "radicals": [
+      "門 (gate)",
+      "耳 (ear)"
+    ],
+    "mnemonic": "Ear at the gate—listening to hear something",
+    "onyomi": "ブン",
+    "kunyomi": "き(く)",
+    "level": "N5"
+  },
+  {
+    "character": "言",
+    "meaning": "say, word, language",
+    "radicals": [
+      "言 (say)"
+    ],
+    "mnemonic": "Mouth with sound waves—speaking words",
+    "onyomi": "ゲン",
+    "kunyomi": "い(う)",
+    "level": "N5"
+  },
+  {
+    "character": "話",
+    "meaning": "talk, story, speak",
+    "radicals": [
+      "言 (say)",
+      "舌 (tongue)"
+    ],
+    "mnemonic": "Words from tongue—speaking and talking",
+    "onyomi": "ワ",
+    "kunyomi": "はな(す)",
+    "level": "N5"
+  },
+  {
+    "character": "読",
+    "meaning": "read",
+    "radicals": [
+      "言 (say)",
+      "売 (sell)"
+    ],
+    "mnemonic": "Words to sell—reading aloud",
+    "onyomi": "ドク",
+    "kunyomi": "よ(む)",
+    "level": "N5"
+  },
+  {
+    "character": "書",
+    "meaning": "write",
+    "radicals": [
+      "聿 (brush)",
+      "日 (sun)"
+    ],
+    "mnemonic": "Brush in daylight—writing",
+    "onyomi": "ショ",
+    "kunyomi": "か(く)",
+    "level": "N5"
+  },
+  {
+    "character": "思",
+    "meaning": "think, thought",
+    "radicals": [
+      "田 (rice field)",
+      "心 (heart)"
+    ],
+    "mnemonic": "Heart and rice field—thinking deeply",
+    "onyomi": "シ",
+    "kunyomi": "おも(う)",
+    "level": "N5"
+  },
+  {
+    "character": "知",
+    "meaning": "know, wisdom",
+    "radicals": [
+      "矢 (arrow)",
+      "口 (mouth)"
+    ],
+    "mnemonic": "Arrow to mouth—speaking what you know",
+    "onyomi": "チ",
+    "kunyomi": "し(る)",
+    "level": "N5"
+  },
+  {
+    "character": "食",
+    "meaning": "eat, food",
+    "radicals": [
+      "人 (person)",
+      "良 (good)"
+    ],
+    "mnemonic": "Good person with rice—eating",
+    "onyomi": "ショク",
+    "kunyomi": "た(べる)",
+    "level": "N5"
+  },
+  {
+    "character": "飲",
+    "meaning": "drink",
+    "radicals": [
+      "食 (eat)",
+      "欠 (lack/yawn)"
+    ],
+    "mnemonic": "Eating and yawning—drinking liquid",
+    "onyomi": "イン",
+    "kunyomi": "の(む)",
+    "level": "N5"
+  },
+  {
+    "character": "作",
+    "meaning": "make, create",
+    "radicals": [
+      "人 (person)",
+      "乍 (saw)"
+    ],
+    "mnemonic": "Person with saw—making things",
+    "onyomi": "サク",
+    "kunyomi": "つく(る)",
+    "level": "N5"
+  },
+  {
+    "character": "会",
+    "meaning": "meet, meeting",
+    "radicals": [
+      "人 (person)",
+      "云 (say)"
+    ],
+    "mnemonic": "People gathering to speak—a meeting",
+    "onyomi": "カイ",
+    "kunyomi": "あ(う)",
+    "level": "N5"
+  },
+  {
+    "character": "待",
+    "meaning": "wait, await",
+    "radicals": [
+      "彳 (step)",
+      "寺 (temple)"
+    ],
+    "mnemonic": "Walking to temple—waiting to arrive",
+    "onyomi": "タイ",
+    "kunyomi": "ま(つ)",
+    "level": "N5"
+  },
+  {
+    "character": "立",
+    "meaning": "stand, establish",
+    "radicals": [
+      "立 (stand)"
+    ],
+    "mnemonic": "Person standing firmly on ground",
+    "onyomi": "リツ",
+    "kunyomi": "た(つ)",
+    "level": "N5"
+  },
+  {
+    "character": "走",
+    "meaning": "run, race",
+    "radicals": [
+      "土 (earth)",
+      "夭 (bend)"
+    ],
+    "mnemonic": "Person running bent over the ground",
+    "onyomi": "ソウ",
+    "kunyomi": "はし(る)",
+    "level": "N5"
+  },
+  {
+    "character": "止",
+    "meaning": "stop, halt",
+    "radicals": [
+      "止 (stop)"
+    ],
+    "mnemonic": "Foot stopping—halt in place",
+    "onyomi": "シ",
+    "kunyomi": "と(まる)",
+    "level": "N5"
+  },
+  {
+    "character": "歩",
+    "meaning": "walk, step",
+    "radicals": [
+      "止 (stop)",
+      "少 (few)"
+    ],
+    "mnemonic": "Few steps—walking slowly",
+    "onyomi": "ホ",
+    "kunyomi": "ある(く)",
+    "level": "N5"
+  },
+  {
+    "character": "買",
+    "meaning": "buy, purchase",
+    "radicals": [
+      "罒 (net)",
+      "貝 (shell)"
+    ],
+    "mnemonic": "Net catching shells (money)—buying",
+    "onyomi": "バイ",
+    "kunyomi": "か(う)",
+    "level": "N5"
+  },
+  {
+    "character": "売",
+    "meaning": "sell",
+    "radicals": [
+      "士 (samurai)",
+      "儿 (legs)"
+    ],
+    "mnemonic": "Samurai with legs out—selling wares",
+    "onyomi": "バイ",
+    "kunyomi": "う(る)",
+    "level": "N5"
+  },
+  {
+    "character": "切",
+    "meaning": "cut, slice",
+    "radicals": [
+      "七 (seven)",
+      "刀 (sword)"
+    ],
+    "mnemonic": "Seven slices with a sword—cutting",
+    "onyomi": "セツ",
+    "kunyomi": "き(る)",
+    "level": "N5"
+  },
+  {
+    "character": "持",
+    "meaning": "hold, possess",
+    "radicals": [
+      "手 (hand)",
+      "寺 (temple)"
+    ],
+    "mnemonic": "Hand at temple—holding onto faith",
+    "onyomi": "ジ",
+    "kunyomi": "も(つ)",
+    "level": "N5"
+  },
+  {
+    "character": "使",
+    "meaning": "use, employ",
+    "radicals": [
+      "人 (person)",
+      "史 (history)"
+    ],
+    "mnemonic": "Person making history—using power",
+    "onyomi": "シ",
+    "kunyomi": "つか(う)",
+    "level": "N5"
+  },
+  {
+    "character": "开",
+    "meaning": "open, begin",
+    "radicals": [
+      "門 (gate)",
+      "廾 (hands)"
+    ],
+    "mnemonic": "Hands pushing gate—opening it",
+    "onyomi": "カイ",
+    "kunyomi": "あ(く)",
+    "level": "N5"
+  },
+  {
+    "character": "閉",
+    "meaning": "close, shut",
+    "radicals": [
+      "門 (gate)",
+      "才 (talent)"
+    ],
+    "mnemonic": "Gate with talent—closing shut",
+    "onyomi": "ヘイ",
+    "kunyomi": "と(じる)",
+    "level": "N5"
+  },
+  {
+    "character": "生",
+    "meaning": "life, birth, grow",
+    "radicals": [
+      "生 (life)"
+    ],
+    "mnemonic": "Plant sprouting from soil—birth of life",
+    "onyomi": "セイ",
+    "kunyomi": "い(きる)",
+    "level": "N5"
+  },
+  {
+    "character": "死",
+    "meaning": "death, die",
+    "radicals": [
+      "歹 (bone)",
+      "匕 (spoon)"
+    ],
+    "mnemonic": "Bones scattered—death",
+    "onyomi": "シ",
+    "kunyomi": "し(ぬ)",
+    "level": "N4"
+  },
+  {
+    "character": "大",
+    "meaning": "big, large",
+    "radicals": [
+      "大 (big)"
+    ],
+    "mnemonic": "Person with arms and legs spread wide—BIG",
+    "onyomi": "ダイ",
+    "kunyomi": "おお(きい)",
+    "level": "N5"
+  },
+  {
+    "character": "小",
+    "meaning": "small, little",
+    "radicals": [
+      "小 (small)"
+    ],
+    "mnemonic": "Three tiny dots—something small",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい(さい)",
+    "level": "N5"
+  },
+  {
+    "character": "多",
+    "meaning": "many, much",
+    "radicals": [
+      "夜 (night)",
+      "夜 (night)"
+    ],
+    "mnemonic": "Two nights—many nights ahead",
+    "onyomi": "タ",
+    "kunyomi": "おお(い)",
+    "level": "N5"
+  },
+  {
+    "character": "少",
+    "meaning": "few, little",
+    "radicals": [
+      "小 (small)",
+      "丶 (dot)"
+    ],
+    "mnemonic": "Small with dot—few and fewer",
+    "onyomi": "ショウ",
+    "kunyomi": "すく(ない)",
+    "level": "N5"
+  },
+  {
+    "character": "長",
+    "meaning": "long, leader",
+    "radicals": [
+      "長 (long)"
+    ],
+    "mnemonic": "Old man with long hair and cane—long life",
+    "onyomi": "チョウ",
+    "kunyomi": "なが(い)",
+    "level": "N5"
+  },
+  {
+    "character": "短",
+    "meaning": "short",
+    "radicals": [
+      "矢 (arrow)",
+      "豆 (bean)"
+    ],
+    "mnemonic": "Arrow hitting bean—short distance",
+    "onyomi": "タン",
+    "kunyomi": "みじか(い)",
+    "level": "N5"
+  },
+  {
+    "character": "高",
+    "meaning": "tall, high, expensive",
+    "radicals": [
+      "亠 (lid)",
+      "口 (mouth)",
+      "冂 (down box)"
+    ],
+    "mnemonic": "Tall tower building—high up",
+    "onyomi": "コウ",
+    "kunyomi": "たか(い)",
+    "level": "N5"
+  },
+  {
+    "character": "低",
+    "meaning": "low, short, inferior",
+    "radicals": [
+      "人 (person)",
+      "氐 (base)"
+    ],
+    "mnemonic": "Person at base—low position",
+    "onyomi": "テイ",
+    "kunyomi": "ひく(い)",
+    "level": "N5"
+  },
+  {
+    "character": "深",
+    "meaning": "deep, profound",
+    "radicals": [
+      "氵 (water)",
+      "深 (deep)"
+    ],
+    "mnemonic": "Water going down—deep",
+    "onyomi": "シン",
+    "kunyomi": "ふか(い)",
+    "level": "N5"
+  },
+  {
+    "character": "浅",
+    "meaning": "shallow",
+    "radicals": [
+      "氵 (water)",
+      "泉 (spring)"
+    ],
+    "mnemonic": "Water barely covering—shallow",
+    "onyomi": "セン",
+    "kunyomi": "あさ(い)",
+    "level": "N5"
+  },
+  {
+    "character": "愛",
+    "meaning": "love, affection",
+    "radicals": [
+      "爪 (claw)",
+      "冖 (cover)",
+      "友 (friend)",
+      "心 (heart)"
+    ],
+    "mnemonic": "Cover your friends with your claws and heart—that's love",
+    "onyomi": "アイ",
+    "kunyomi": "いと(しい)",
+    "level": "N4"
+  },
+  {
+    "character": "好",
+    "meaning": "like, love, good",
+    "radicals": [
+      "女 (woman)",
+      "子 (child)"
+    ],
+    "mnemonic": "Woman with child—what a woman loves",
+    "onyomi": "コウ",
+    "kunyomi": "す(き)",
+    "level": "N5"
+  },
+  {
+    "character": "嫌",
+    "meaning": "hate, dislike",
+    "radicals": [
+      "女 (woman)",
+      "厭 (dislike)"
+    ],
+    "mnemonic": "Woman getting tired—dislikes it",
+    "onyomi": "ケン",
+    "kunyomi": "きら(う)",
+    "level": "N4"
+  },
+  {
+    "character": "美",
+    "meaning": "beautiful, beauty",
+    "radicals": [
+      "羊 (sheep)",
+      "大 (big)"
+    ],
+    "mnemonic": "Big sheep with fleece—beautiful",
+    "onyomi": "ビ",
+    "kunyomi": "うつくし(い)",
+    "level": "N5"
+  },
+  {
+    "character": "醜",
+    "meaning": "ugly, shameful",
+    "radicals": [
+      "酉 (bottle)",
+      "丑 (cow)"
+    ],
+    "mnemonic": "Bottle hitting cow—ugly sight",
+    "onyomi": "シュウ",
+    "kunyomi": "みにく(い)",
+    "level": "N4"
+  },
+  {
+    "character": "強",
+    "meaning": "strong, powerful",
+    "radicals": [
+      "弓 (bow)",
+      "虫 (insect)"
+    ],
+    "mnemonic": "Bow strong as beetle shell—powerful",
+    "onyomi": "キョウ",
+    "kunyomi": "つよ(い)",
+    "level": "N5"
+  },
+  {
+    "character": "弱",
+    "meaning": "weak, frail",
+    "radicals": [
+      "弓 (bow)",
+      "弓 (bow)"
+    ],
+    "mnemonic": "Two weak bows—frail and weak",
+    "onyomi": "ジャク",
+    "kunyomi": "よわ(い)",
+    "level": "N5"
+  },
+  {
+    "character": "明",
+    "meaning": "bright, clear",
+    "radicals": [
+      "日 (sun)",
+      "月 (moon)"
+    ],
+    "mnemonic": "Sun and moon together—bright light",
+    "onyomi": "メイ",
+    "kunyomi": "あか(るい)",
+    "level": "N5"
+  },
+  {
+    "character": "暗",
+    "meaning": "dark, gloomy",
+    "radicals": [
+      "日 (sun)",
+      "音 (sound)"
+    ],
+    "mnemonic": "Sun making no sound—darkness falling",
+    "onyomi": "アン",
+    "kunyomi": "くら(い)",
+    "level": "N5"
+  },
+  {
+    "character": "静",
+    "meaning": "quiet, silent, peaceful",
+    "radicals": [
+      "青 (blue)",
+      "争 (fight)"
+    ],
+    "mnemonic": "Blue color at peace—quiet serenity",
+    "onyomi": "セイ",
+    "kunyomi": "しず(か)",
+    "level": "N4"
+  },
+  {
+    "character": "音",
+    "meaning": "sound, noise, music",
+    "radicals": [
+      "音 (sound)"
+    ],
+    "mnemonic": "Mouth with vibrations—sound",
+    "onyomi": "オン",
+    "kunyomi": "おと",
+    "level": "N5"
+  },
+  {
+    "character": "学",
+    "meaning": "study, learning",
+    "radicals": [
+      "⺍ (teacher)",
+      "子 (child)"
+    ],
+    "mnemonic": "Child under roof—place of learning",
+    "onyomi": "ガク",
+    "kunyomi": "まな(ぶ)",
+    "level": "N5"
+  },
+  {
+    "character": "校",
+    "meaning": "school",
+    "radicals": [
+      "木 (tree)",
+      "交 (mix)"
+    ],
+    "mnemonic": "Tree where people mix—the school",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "level": "N5"
+  },
+  {
+    "character": "先",
+    "meaning": "before, previous, ahead",
+    "radicals": [
+      "儿 (legs)",
+      "土 (earth)"
+    ],
+    "mnemonic": "Legs walking on earth—going ahead",
+    "onyomi": "セン",
+    "kunyomi": "さき",
+    "level": "N5"
+  },
+  {
+    "character": "新",
+    "meaning": "new, fresh",
+    "radicals": [
+      "立 (stand)",
+      "木 (tree)",
+      "斤 (axe)"
+    ],
+    "mnemonic": "Stand tree and axe—cutting fresh new wood",
+    "onyomi": "シン",
+    "kunyomi": "あたら(しい)",
+    "level": "N5"
+  },
+  {
+    "character": "古",
+    "meaning": "old, ancient",
+    "radicals": [
+      "十 (ten)",
+      "口 (mouth)"
+    ],
+    "mnemonic": "Ten mouths telling stories—the ancient past",
+    "onyomi": "コ",
+    "kunyomi": "ふる(い)",
+    "level": "N5"
+  },
+  {
+    "character": "町",
+    "meaning": "town, district",
+    "radicals": [
+      "田 (rice field)",
+      "丁 (nail)"
+    ],
+    "mnemonic": "Rice field divided—a town district",
+    "onyomi": "チョウ",
+    "kunyomi": "まち",
+    "level": "N5"
+  },
+  {
+    "character": "村",
+    "meaning": "village",
+    "radicals": [
+      "木 (tree)",
+      "寸 (measure)"
+    ],
+    "mnemonic": "Trees measured out—a village settlement",
+    "onyomi": "ソン",
+    "kunyomi": "むら",
+    "level": "N5"
+  },
+  {
+    "character": "駅",
+    "meaning": "station",
+    "radicals": [
+      "馬 (horse)",
+      "尺 (measure)"
+    ],
+    "mnemonic": "Horse resting place—station",
+    "onyomi": "エキ",
+    "kunyomi": "",
+    "level": "N5"
+  },
+  {
+    "character": "道",
+    "meaning": "road, path, way",
+    "radicals": [
+      "辶 (road)",
+      "首 (neck/head)"
+    ],
+    "mnemonic": "Head going on road—the path forward",
+    "onyomi": "ドウ",
+    "kunyomi": "みち",
+    "level": "N5"
+  },
+  {
+    "character": "門",
+    "meaning": "gate, door",
+    "radicals": [
+      "門 (gate)"
+    ],
+    "mnemonic": "Double door—a gate",
+    "onyomi": "モン",
+    "kunyomi": "かど",
+    "level": "N5"
+  },
+  {
+    "character": "窓",
+    "meaning": "window",
+    "radicals": [
+      "穴 (hole)",
+      "囱 (chimney)"
+    ],
+    "mnemonic": "Hole in wall—a window",
+    "onyomi": "ソウ",
+    "kunyomi": "まど",
+    "level": "N5"
+  },
+  {
+    "character": "車",
+    "meaning": "car, vehicle",
+    "radicals": [
+      "車 (vehicle)"
+    ],
+    "mnemonic": "Cart with wheels—a vehicle",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "level": "N5"
+  },
+  {
+    "character": "電",
+    "meaning": "electricity",
+    "radicals": [
+      "雨 (rain)",
+      "田 (rice field)"
+    ],
+    "mnemonic": "Rain striking field—lightning electricity",
+    "onyomi": "デン",
+    "kunyomi": "",
+    "level": "N5"
+  },
+  {
+    "character": "遠",
+    "meaning": "far, distant",
+    "radicals": [
+      "辶 (road)",
+      "袁 (long robe)"
+    ],
+    "mnemonic": "Long road in robe—distant journey",
+    "onyomi": "エン",
+    "kunyomi": "とお(い)",
+    "level": "N5"
+  },
+  {
+    "character": "近",
+    "meaning": "near, close",
+    "radicals": [
+      "辶 (road)",
+      "斤 (axe)"
+    ],
+    "mnemonic": "Road to axe nearby—close at hand",
+    "onyomi": "キン",
+    "kunyomi": "ちか(い)",
+    "level": "N5"
+  },
+  {
+    "character": "金",
+    "meaning": "gold, metal, money",
+    "radicals": [
+      "金 (gold)"
+    ],
+    "mnemonic": "Roof over fire with dots—smelting gold",
+    "onyomi": "キン",
+    "kunyomi": "かね",
+    "level": "N5"
+  },
+  {
+    "character": "銀",
+    "meaning": "silver",
+    "radicals": [
+      "金 (gold)",
+      "艮 (stubborn)"
+    ],
+    "mnemonic": "Gold that's stubborn—silver",
+    "onyomi": "ギン",
+    "kunyomi": "ぎん",
+    "level": "N4"
+  },
+  {
+    "character": "銅",
+    "meaning": "copper",
+    "radicals": [
+      "金 (gold)",
+      "同 (same)"
+    ],
+    "mnemonic": "Gold of the same family—copper",
+    "onyomi": "ドウ",
+    "kunyomi": "どう",
+    "level": "N4"
+  },
+  {
+    "character": "鉄",
+    "meaning": "iron",
+    "radicals": [
+      "金 (gold)",
+      "失 (lose)"
+    ],
+    "mnemonic": "Metal you lose to rust—iron",
+    "onyomi": "テツ",
+    "kunyomi": "てつ",
+    "level": "N4"
+  },
+  {
+    "character": "石",
+    "meaning": "stone, rock",
+    "radicals": [
+      "石 (stone)"
+    ],
+    "mnemonic": "Picture of stone—rock",
+    "onyomi": "セキ",
+    "kunyomi": "いし",
+    "level": "N5"
+  },
+  {
+    "character": "米",
+    "meaning": "rice, America",
+    "radicals": [
+      "米 (rice)"
+    ],
+    "mnemonic": "Rice grains shown—the staple",
+    "onyomi": "ベイ",
+    "kunyomi": "こめ",
+    "level": "N5"
+  },
+  {
+    "character": "麦",
+    "meaning": "wheat, barley",
+    "radicals": [
+      "麦 (wheat)"
+    ],
+    "mnemonic": "Grain stalks—wheat and barley",
+    "onyomi": "バク",
+    "kunyomi": "むぎ",
+    "level": "N5"
+  },
+  {
+    "character": "魚",
+    "meaning": "fish",
+    "radicals": [
+      "魚 (fish)"
+    ],
+    "mnemonic": "Picture of fish—swimming creature",
+    "onyomi": "ギョ",
+    "kunyomi": "さかな",
+    "level": "N5"
+  },
+  {
+    "character": "野",
+    "meaning": "field, plain, wild",
+    "radicals": [
+      "里 (village)",
+      "予 (beforehand)"
+    ],
+    "mnemonic": "Village with fields ahead—the plains",
+    "onyomi": "ヤ",
+    "kunyomi": "の",
+    "level": "N5"
+  },
+  {
+    "character": "菜",
+    "meaning": "vegetable, greens",
+    "radicals": [
+      "艹 (grass)",
+      "采 (gather)"
+    ],
+    "mnemonic": "Grass you gather—vegetables",
+    "onyomi": "サイ",
+    "kunyomi": "な",
+    "level": "N5"
+  },
+  {
+    "character": "果",
+    "meaning": "fruit, result",
+    "radicals": [
+      "木 (tree)",
+      "果 (fruit)"
+    ],
+    "mnemonic": "Tree bearing fruit—the result",
+    "onyomi": "カ",
+    "kunyomi": "くだもの",
+    "level": "N5"
+  },
+  {
+    "character": "油",
+    "meaning": "oil, fat",
+    "radicals": [
+      "氵 (water)",
+      "由 (reason)"
+    ],
+    "mnemonic": "Water with reason to flow—oil",
+    "onyomi": "ユ",
+    "kunyomi": "あぶら",
+    "level": "N5"
+  },
+  {
+    "character": "塩",
+    "meaning": "salt",
+    "radicals": [
+      "土 (earth)",
+      "鹵 (salt)"
+    ],
+    "mnemonic": "Earth mineral—salt",
+    "onyomi": "エン",
+    "kunyomi": "しお",
+    "level": "N5"
+  },
+  {
+    "character": "家",
+    "meaning": "house, home, family",
+    "radicals": [
+      "宀 (roof)",
+      "豕 (pig)"
+    ],
+    "mnemonic": "Roof over pig—where animals live",
+    "onyomi": "カ",
+    "kunyomi": "いえ",
+    "level": "N5"
+  },
+  {
+    "character": "屋",
+    "meaning": "roof, shop, building",
+    "radicals": [
+      "屋 (roof)"
+    ],
+    "mnemonic": "Roof structure—a building",
+    "onyomi": "オク",
+    "kunyomi": "やね",
+    "level": "N5"
+  },
+  {
+    "character": "室",
+    "meaning": "room",
+    "radicals": [
+      "宀 (roof)",
+      "至 (arrive)"
+    ],
+    "mnemonic": "Roof to arrive at—a room",
+    "onyomi": "シツ",
+    "kunyomi": "へや",
+    "level": "N5"
+  },
+  {
+    "character": "床",
+    "meaning": "floor, bed",
+    "radicals": [
+      "木 (tree)",
+      "广 (roof)"
+    ],
+    "mnemonic": "Tree under roof—wooden floor",
+    "onyomi": "トコ",
+    "kunyomi": "ゆか",
+    "level": "N5"
+  },
+  {
+    "character": "机",
+    "meaning": "desk",
+    "radicals": [
+      "木 (tree)",
+      "几 (table)"
+    ],
+    "mnemonic": "Table made of wood—a desk",
+    "onyomi": "キ",
+    "kunyomi": "つくえ",
+    "level": "N5"
+  },
+  {
+    "character": "椅",
+    "meaning": "chair",
+    "radicals": [
+      "木 (tree)",
+      "奇 (strange)"
+    ],
+    "mnemonic": "Strange wooden thing—a chair",
+    "onyomi": "イ",
+    "kunyomi": "いす",
+    "level": "N5"
+  },
+  {
+    "character": "戸",
+    "meaning": "door, shutter",
+    "radicals": [
+      "戸 (door)"
+    ],
+    "mnemonic": "Door closing—a shutter",
+    "onyomi": "ト",
+    "kunyomi": "と",
+    "level": "N5"
+  },
+  {
+    "character": "鍵",
+    "meaning": "key",
+    "radicals": [
+      "金 (gold)",
+      "闭 (shut)"
+    ],
+    "mnemonic": "Metal for shutting—a key",
+    "onyomi": "カギ",
+    "kunyomi": "かぎ",
+    "level": "N4"
+  },
+  {
+    "character": "衣",
+    "meaning": "clothing, garment",
+    "radicals": [
+      "衣 (clothing)"
+    ],
+    "mnemonic": "Robe hanging down—clothing",
+    "onyomi": "イ",
+    "kunyomi": "ころも",
+    "level": "N5"
+  },
+  {
+    "character": "服",
+    "meaning": "clothes, wear",
+    "radicals": [
+      "月 (moon)",
+      "服 (wear)"
+    ],
+    "mnemonic": "Moon-shaped garment—clothes",
+    "onyomi": "フク",
+    "kunyomi": "ふく",
+    "level": "N5"
+  },
+  {
+    "character": "靴",
+    "meaning": "shoes",
+    "radicals": [
+      "革 (leather)",
+      "化 (change)"
+    ],
+    "mnemonic": "Leather that changes—shoes",
+    "onyomi": "カ",
+    "kunyomi": "くつ",
+    "level": "N5"
+  },
+  {
+    "character": "帽",
+    "meaning": "hat, cap",
+    "radicals": [
+      "巾 (cloth)",
+      "冒 (risk)"
+    ],
+    "mnemonic": "Cloth you risk blowing off—hat",
+    "onyomi": "ボウ",
+    "kunyomi": "ぼうし",
+    "level": "N5"
+  },
+  {
+    "character": "零",
+    "meaning": "zero",
+    "radicals": [
+      "雨 (rain)",
+      "令 (order)"
+    ],
+    "mnemonic": "Rain obeying orders—zero",
+    "onyomi": "レイ",
+    "kunyomi": "",
+    "level": "N4"
+  },
+  {
+    "character": "涙",
+    "meaning": "tears, sympathy",
+    "radicals": [
+      "氵 (water)",
+      "戻 (return)"
+    ],
+    "mnemonic": "Water returns from your eyes—those are tears",
+    "onyomi": "ルイ",
+    "kunyomi": "なみだ",
+    "level": "N4"
+  },
+  {
+    "character": "怒",
+    "meaning": "anger, rage",
+    "radicals": [
+      "心 (heart)",
+      "奴 (slave)"
+    ],
+    "mnemonic": "Heart enslaved—anger",
+    "onyomi": "ド",
+    "kunyomi": "おこ(る)",
+    "level": "N4"
+  },
+  {
+    "character": "悲",
+    "meaning": "sorrow, sad",
+    "radicals": [
+      "心 (heart)",
+      "非 (wrong)"
+    ],
+    "mnemonic": "Heart knowing wrong—sorrow",
+    "onyomi": "ヒ",
+    "kunyomi": "かな(しい)",
+    "level": "N4"
+  },
+  {
+    "character": "喜",
+    "meaning": "joy, delight",
+    "radicals": [
+      "口 (mouth)",
+      "喜 (joy)"
+    ],
+    "mnemonic": "Mouth open wide—joy",
+    "onyomi": "キ",
+    "kunyomi": "よろこ(ぶ)",
+    "level": "N5"
+  },
+  {
+    "character": "楽",
+    "meaning": "happy, music, easy",
+    "radicals": [
+      "木 (tree)",
+      "幺 (small)",
+      "幺 (small)"
+    ],
+    "mnemonic": "Music from the trees—happiness",
+    "onyomi": "ガク",
+    "kunyomi": "たの(しい)",
+    "level": "N5"
+  },
+  {
+    "character": "苦",
+    "meaning": "suffering, pain, bitter",
+    "radicals": [
+      "艹 (grass)",
+      "苦 (suffer)"
+    ],
+    "mnemonic": "Bitter grass—suffering",
+    "onyomi": "ク",
+    "kunyomi": "くる(しい)",
+    "level": "N4"
+  },
+  {
+    "character": "助",
+    "meaning": "help, assist",
+    "radicals": [
+      "力 (power)",
+      "且 (and)"
+    ],
+    "mnemonic": "Power and help together—assisting",
+    "onyomi": "ジョ",
+    "kunyomi": "たす(ける)",
+    "level": "N4"
+  },
+  {
+    "character": "本",
+    "meaning": "book, origin, true",
+    "radicals": [
+      "木 (tree)",
+      "一 (one)"
+    ],
+    "mnemonic": "Tree with line at base—the root/origin",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "level": "N5"
+  },
+  {
+    "character": "紙",
+    "meaning": "paper",
+    "radicals": [
+      "糸 (thread)",
+      "氏 (surname)"
+    ],
+    "mnemonic": "Threads pressed together—paper",
+    "onyomi": "シ",
+    "kunyomi": "かみ",
+    "level": "N5"
+  },
+  {
+    "character": "字",
+    "meaning": "character, letter",
+    "radicals": [
+      "子 (child)",
+      "宀 (roof)"
+    ],
+    "mnemonic": "Child in roof—learning characters",
+    "onyomi": "ジ",
+    "kunyomi": "じ",
+    "level": "N5"
+  },
+  {
+    "character": "歌",
+    "meaning": "song, to sing",
+    "radicals": [
+      "可 (can)",
+      "欠 (lack/yawn)"
+    ],
+    "mnemonic": "You can yawn or you can sing—choose singing",
+    "onyomi": "カ",
+    "kunyomi": "うた",
+    "level": "N5"
+  },
+  {
+    "character": "夢",
+    "meaning": "dream, vision",
+    "radicals": [
+      "艹 (grass)",
+      "罒 (eye)",
+      "夕 (evening)"
+    ],
+    "mnemonic": "Grass covers your eyes in evening—you're dreaming",
+    "onyomi": "ム",
+    "kunyomi": "ゆめ",
+    "level": "N5"
+  },
+  {
+    "character": "君",
+    "meaning": "you, lord, ruler",
+    "radicals": [
+      "尹 (govern)",
+      "口 (mouth)"
+    ],
+    "mnemonic": "The mouth that governs—that's you, the ruler",
+    "onyomi": "クン",
+    "kunyomi": "きみ",
+    "level": "N5"
+  },
+  {
+    "character": "私",
+    "meaning": "I, private, personal",
+    "radicals": [
+      "禾 (grain)",
+      "ム (katakana mu)"
+    ],
+    "mnemonic": "My private grain harvest—mine alone",
+    "onyomi": "シ",
+    "kunyomi": "わたし",
+    "level": "N5"
+  },
+  {
+    "character": "世",
+    "meaning": "world, generation",
+    "radicals": [
+      "十 (ten)",
+      "廿 (twenty)"
+    ],
+    "mnemonic": "Ten plus twenty generations—the whole world through time",
+    "onyomi": "セイ",
+    "kunyomi": "よ",
+    "level": "N5"
+  },
+  {
+    "character": "界",
+    "meaning": "world, boundary",
+    "radicals": [
+      "田 (rice field)",
+      "介 (mediate)"
+    ],
+    "mnemonic": "The rice field that mediates—the boundary of our world",
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "level": "N5"
+  },
+  {
+    "character": "今",
+    "meaning": "now, present",
+    "radicals": [
+      "人 (person)",
+      "一 (one)"
+    ],
+    "mnemonic": "One person in the present moment—that's NOW",
+    "onyomi": "コン",
+    "kunyomi": "いま",
+    "level": "N5"
+  },
+  {
+    "character": "方",
+    "meaning": "direction, person",
+    "radicals": [
+      "方 (direction)"
+    ],
+    "mnemonic": "Person with flag pointing—direction",
+    "onyomi": "ホウ",
+    "kunyomi": "かた",
+    "level": "N5"
+  },
+  {
+    "character": "毎",
+    "meaning": "every, each",
+    "radicals": [
+      "毋 (do not)",
+      "人 (person)"
+    ],
+    "mnemonic": "Mother figure—every single one",
+    "onyomi": "マイ",
+    "kunyomi": "",
+    "level": "N5"
+  },
+  {
+    "character": "何",
+    "meaning": "what, which",
+    "radicals": [
+      "人 (person)",
+      "可 (can)"
+    ],
+    "mnemonic": "Person asking \"can?\" - what is it?",
+    "onyomi": "カ",
+    "kunyomi": "なに",
+    "level": "N5"
+  },
+  {
+    "character": "所",
+    "meaning": "place, location",
+    "radicals": [
+      "戸 (door)",
+      "斤 (axe)"
+    ],
+    "mnemonic": "Axe by door—the place where tools are",
+    "onyomi": "ショ",
+    "kunyomi": "ところ",
+    "level": "N5"
+  },
+  {
+    "character": "顔",
+    "meaning": "face",
+    "radicals": [
+      "彦 (elegant)",
+      "頁 (head)"
+    ],
+    "mnemonic": "Elegant head—the face",
+    "onyomi": "ガン",
+    "kunyomi": "かお",
+    "level": "N5"
+  },
+  {
+    "character": "声",
+    "meaning": "voice, sound",
+    "radicals": [
+      "士 (samurai)",
+      "凵 (container)"
+    ],
+    "mnemonic": "Sound coming from container—voice",
+    "onyomi": "セイ",
+    "kunyomi": "こえ",
+    "level": "N5"
+  },
+  {
+    "character": "入",
+    "meaning": "enter, insert",
+    "radicals": [
+      "入 (enter)"
+    ],
+    "mnemonic": "Roof peak pointing in—entering inside",
+    "onyomi": "ニュウ",
+    "kunyomi": "はい(る)",
+    "level": "N5"
+  },
+  {
+    "character": "出",
+    "meaning": "exit, go out, come out",
+    "radicals": [
+      "凵 (container)",
+      "山 (mountain)"
+    ],
+    "mnemonic": "Mountains emerging from container—coming out",
+    "onyomi": "シュツ",
+    "kunyomi": "で(る)",
+    "level": "N5"
+  },
+  {
+    "character": "行",
+    "meaning": "go, conduct, line",
+    "radicals": [
+      "彳 (step)",
+      "亍 (step)"
+    ],
+    "mnemonic": "Crossroads—going somewhere",
+    "onyomi": "コウ",
+    "kunyomi": "い(く)",
+    "level": "N5"
+  },
+  {
+    "character": "来",
+    "meaning": "come, next",
+    "radicals": [
+      "木 (tree)",
+      "一 (one)"
+    ],
+    "mnemonic": "Tree with grain—harvest is coming",
+    "onyomi": "ライ",
+    "kunyomi": "く(る)",
+    "level": "N5"
+  },
+  {
+    "character": "早",
+    "meaning": "early, fast",
+    "radicals": [
+      "日 (sun)",
+      "十 (ten)"
+    ],
+    "mnemonic": "Sun rising at ten strokes—early morning",
+    "onyomi": "ソウ",
+    "kunyomi": "はや(い)",
+    "level": "N5"
+  },
+  {
+    "character": "求",
+    "meaning": "seek, request",
+    "radicals": [
+      "水 (water)",
+      "求 (seek)"
+    ],
+    "mnemonic": "Water seeking a path—asking for something",
+    "onyomi": "キュウ",
+    "kunyomi": "もと(める)",
+    "level": "N5"
+  },
+  {
+    "character": "与",
+    "meaning": "give, grant",
+    "radicals": [
+      "与 (give)"
+    ],
+    "mnemonic": "Giving hand—bestowing gifts",
+    "onyomi": "ヨ",
+    "kunyomi": "あた(える)",
+    "level": "N5"
+  },
+  {
+    "character": "取",
+    "meaning": "take, grab",
+    "radicals": [
+      "耳 (ear)",
+      "又 (again)"
+    ],
+    "mnemonic": "Grabbing with both hands—taking",
+    "onyomi": "シュ",
+    "kunyomi": "と(る)",
+    "level": "N5"
+  },
+  {
+    "character": "返",
+    "meaning": "return, reply",
+    "radicals": [
+      "辶 (road)",
+      "反 (oppose)"
+    ],
+    "mnemonic": "Going back opposite way—returning",
+    "onyomi": "ヘン",
+    "kunyomi": "かえ(す)",
+    "level": "N5"
+  },
+  {
+    "character": "通",
+    "meaning": "pass, go through, communicate",
+    "radicals": [
+      "辶 (road)",
+      "用 (use)"
+    ],
+    "mnemonic": "Using the road—passing through",
+    "onyomi": "ツウ",
+    "kunyomi": "とお(る)",
+    "level": "N5"
+  },
+  {
+    "character": "降",
+    "meaning": "descend, fall, come down",
+    "radicals": [
+      "阝 (hill)",
+      "夂 (walk)"
+    ],
+    "mnemonic": "Walking down the hill—descending",
+    "onyomi": "コウ",
+    "kunyomi": "お(りる)",
+    "level": "N4"
+  },
+  {
+    "character": "昇",
+    "meaning": "ascend, rise",
+    "radicals": [
+      "日 (sun)",
+      "升 (measure)"
+    ],
+    "mnemonic": "Sun rising measured—ascending",
+    "onyomi": "ショウ",
+    "kunyomi": "のぼ(る)",
+    "level": "N4"
+  },
+  {
+    "character": "落",
+    "meaning": "fall, drop",
+    "radicals": [
+      "艹 (grass)",
+      "洛 (city)"
+    ],
+    "mnemonic": "Grass falling—dropping down",
+    "onyomi": "ラク",
+    "kunyomi": "お(ちる)",
+    "level": "N5"
+  },
+  {
+    "character": "増",
+    "meaning": "increase, grow",
+    "radicals": [
+      "土 (earth)",
+      "曾 (once)"
+    ],
+    "mnemonic": "Earth growing wider—increasing",
+    "onyomi": "ゾウ",
+    "kunyomi": "ふ(える)",
+    "level": "N4"
+  },
+  {
+    "character": "減",
+    "meaning": "decrease, reduce",
+    "radicals": [
+      "氵 (water)",
+      "減 (diminish)"
+    ],
+    "mnemonic": "Water draining—decreasing",
+    "onyomi": "ゲン",
+    "kunyomi": "へ(る)",
+    "level": "N4"
+  },
+  {
+    "character": "腕",
+    "meaning": "arm, ability",
+    "radicals": [
+      "月 (meat)",
+      "腕 (arm)"
+    ],
+    "mnemonic": "Meat of the arm—muscular ability",
+    "onyomi": "ワン",
+    "kunyomi": "うで",
+    "level": "N4"
+  },
+  {
+    "character": "指",
+    "meaning": "finger, point",
+    "radicals": [
+      "手 (hand)",
+      "旨 (essence)"
+    ],
+    "mnemonic": "Hand pointing essence—a finger",
+    "onyomi": "シ",
+    "kunyomi": "ゆび",
+    "level": "N4"
+  },
+  {
+    "character": "腹",
+    "meaning": "belly, stomach",
+    "radicals": [
+      "月 (meat)",
+      "复 (return)"
+    ],
+    "mnemonic": "Meat returning—your belly",
+    "onyomi": "フク",
+    "kunyomi": "はら",
+    "level": "N4"
+  },
+  {
+    "character": "肋",
+    "meaning": "rib",
+    "radicals": [
+      "月 (meat)",
+      "力 (power)"
+    ],
+    "mnemonic": "Meat with power—ribs",
+    "onyomi": "ロク",
+    "kunyomi": "あばら",
+    "level": "N4"
+  },
+  {
+    "character": "紫",
+    "meaning": "purple",
+    "radicals": [
+      "糸 (thread)",
+      "此 (this)"
+    ],
+    "mnemonic": "Thread colored this way—purple",
+    "onyomi": "シ",
+    "kunyomi": "むらさき",
+    "level": "N4"
+  },
+  {
+    "character": "灰",
+    "meaning": "ash, gray",
+    "radicals": [
+      "火 (fire)",
+      "灰 (ash)"
+    ],
+    "mnemonic": "Fire residue—ash",
+    "onyomi": "カイ",
+    "kunyomi": "はい",
+    "level": "N4"
+  },
+  {
+    "character": "才",
+    "meaning": "talent, ability",
+    "radicals": [
+      "才 (talent)"
+    ],
+    "mnemonic": "Cross of talent—ability",
+    "onyomi": "サイ",
+    "kunyomi": "さい",
+    "level": "N5"
+  },
+  {
+    "character": "力",
+    "meaning": "power, strength",
+    "radicals": [
+      "力 (power)"
+    ],
+    "mnemonic": "Muscle showing strength—power",
+    "onyomi": "リョク",
+    "kunyomi": "ちから",
+    "level": "N5"
+  },
+  {
+    "character": "気",
+    "meaning": "spirit, mood, air",
+    "radicals": [
+      "气 (steam)",
+      "米 (rice)"
+    ],
+    "mnemonic": "Steam rising from rice—spirit and energy",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "level": "N5"
+  },
+  {
+    "character": "根",
+    "meaning": "root, base",
+    "radicals": [
+      "木 (tree)",
+      "艮 (stubborn)"
+    ],
+    "mnemonic": "Tree stubbornly rooted—roots",
+    "onyomi": "コン",
+    "kunyomi": "ね",
+    "level": "N5"
+  },
+  {
+    "character": "葉",
+    "meaning": "leaf",
+    "radicals": [
+      "艹 (grass)",
+      "世 (generation)"
+    ],
+    "mnemonic": "Grass generations—leaves on tree",
+    "onyomi": "ヨウ",
+    "kunyomi": "は",
+    "level": "N5"
+  },
+  {
+    "character": "枝",
+    "meaning": "branch",
+    "radicals": [
+      "木 (tree)",
+      "支 (support)"
+    ],
+    "mnemonic": "Tree branch supporting leaves—branch",
+    "onyomi": "シ",
+    "kunyomi": "えだ",
+    "level": "N5"
+  },
+  {
+    "character": "幹",
+    "meaning": "trunk, stem",
+    "radicals": [
+      "干 (dry)",
+      "木 (tree)"
+    ],
+    "mnemonic": "Dry wood—tree trunk",
+    "onyomi": "カン",
+    "kunyomi": "みき",
+    "level": "N5"
+  },
+  {
+    "character": "脳",
+    "meaning": "brain",
+    "radicals": [
+      "月 (meat)",
+      "脳 (brain)"
+    ],
+    "mnemonic": "Meat inside head—the brain",
+    "onyomi": "ノウ",
+    "kunyomi": "のう",
+    "level": "N4"
+  },
+  {
+    "character": "肩",
+    "meaning": "shoulder",
+    "radicals": [
+      "月 (meat)",
+      "肩 (shoulder)"
+    ],
+    "mnemonic": "Meat of the shoulder—shoulder",
+    "onyomi": "ケン",
+    "kunyomi": "かた",
+    "level": "N4"
+  },
+  {
+    "character": "腰",
+    "meaning": "waist, hip",
+    "radicals": [
+      "月 (meat)",
+      "要 (essential)"
+    ],
+    "mnemonic": "Essential meat part—waist",
+    "onyomi": "ヨウ",
+    "kunyomi": "こし",
+    "level": "N4"
+  },
+  {
+    "character": "膝",
+    "meaning": "knee",
+    "radicals": [
+      "月 (meat)",
+      "膝 (knee)"
+    ],
+    "mnemonic": "Meat joint—the knee",
+    "onyomi": "ヒザ",
+    "kunyomi": "ひざ",
+    "level": "N4"
+  },
+  {
+    "character": "背",
+    "meaning": "back, behind",
+    "radicals": [
+      "月 (meat)",
+      "北 (north)"
+    ],
+    "mnemonic": "Meat on your back—back",
+    "onyomi": "ハイ",
+    "kunyomi": "せ",
+    "level": "N4"
+  },
+  {
+    "character": "跳",
+    "meaning": "jump, leap",
+    "radicals": [
+      "足 (foot)",
+      "兆 (trillion)"
+    ],
+    "mnemonic": "Foot bouncing—jumping",
+    "onyomi": "チョウ",
+    "kunyomi": "と(ぶ)",
+    "level": "N4"
+  },
+  {
+    "character": "踏",
+    "meaning": "step on, tread",
+    "radicals": [
+      "足 (foot)",
+      "圧 (pressure)"
+    ],
+    "mnemonic": "Foot pressing down—stepping",
+    "onyomi": "トウ",
+    "kunyomi": "ふ(む)",
+    "level": "N4"
+  },
+  {
+    "character": "登",
+    "meaning": "climb, ascend",
+    "radicals": [
+      "登 (ascend)"
+    ],
+    "mnemonic": "Climbing upward—ascending",
+    "onyomi": "トウ",
+    "kunyomi": "のぼ(る)",
+    "level": "N4"
+  },
+  {
+    "character": "正",
+    "meaning": "correct, straight",
+    "radicals": [
+      "止 (stop)",
+      "一 (one)"
+    ],
+    "mnemonic": "Stop at one—correct",
+    "onyomi": "セイ",
+    "kunyomi": "ただ(しい)",
+    "level": "N5"
+  },
+  {
+    "character": "間違",
+    "meaning": "mistake, wrong",
+    "radicals": [
+      "間 (gap)",
+      "違 (differ)"
+    ],
+    "mnemonic": "Different in the gap—wrong",
+    "onyomi": "マチガ",
+    "kunyomi": "ま(ちがい)",
+    "level": "N5"
+  },
+  {
+    "character": "厚",
+    "meaning": "thick, kind",
+    "radicals": [
+      "厂 (roof)",
+      "后 (thick)"
+    ],
+    "mnemonic": "Roof thickly built—thick",
+    "onyomi": "コウ",
+    "kunyomi": "あつ(い)",
+    "level": "N5"
+  },
+  {
+    "character": "薄",
+    "meaning": "thin, weak",
+    "radicals": [
+      "艹 (grass)",
+      "薄 (thin)"
+    ],
+    "mnemonic": "Grass thinly spread—thin",
+    "onyomi": "ハク",
+    "kunyomi": "うす(い)",
+    "level": "N5"
+  },
+  {
+    "character": "冷",
+    "meaning": "cold, cool",
+    "radicals": [
+      "冫 (ice)",
+      "令 (order)"
+    ],
+    "mnemonic": "Ice obeying—cold",
+    "onyomi": "レイ",
+    "kunyomi": "つめ(たい)",
+    "level": "N5"
+  },
+  {
+    "character": "熱",
+    "meaning": "heat, fever",
+    "radicals": [
+      "火 (fire)",
+      "執 (grasp)"
+    ],
+    "mnemonic": "Fire grasping—heat",
+    "onyomi": "ネツ",
+    "kunyomi": "あつ(い)",
+    "level": "N5"
+  },
+  {
+    "character": "乾",
+    "meaning": "dry",
+    "radicals": [
+      "乾 (dry)"
+    ],
+    "mnemonic": "Becoming parched—dry",
+    "onyomi": "カン",
+    "kunyomi": "かわ(く)",
+    "level": "N5"
+  },
+  {
+    "character": "湿",
+    "meaning": "wet, damp, humid",
+    "radicals": [
+      "氵 (water)",
+      "湿 (wet)"
+    ],
+    "mnemonic": "Water making things damp—wet",
+    "onyomi": "シツ",
+    "kunyomi": "しめ(る)",
+    "level": "N5"
+  },
+  {
+    "character": "肥",
+    "meaning": "fat, fertile",
+    "radicals": [
+      "月 (meat)",
+      "肥 (fat)"
+    ],
+    "mnemonic": "Fat meat—obesity",
+    "onyomi": "ヒ",
+    "kunyomi": "こ(える)",
+    "level": "N5"
+  },
+  {
+    "character": "痩",
+    "meaning": "thin, lean",
+    "radicals": [
+      "病 (disease)",
+      "削 (shave)"
+    ],
+    "mnemonic": "Disease shaving you down—thin",
+    "onyomi": "ソウ",
+    "kunyomi": "や(せる)",
+    "level": "N5"
+  },
+  {
+    "character": "醗",
+    "meaning": "ferment",
+    "radicals": [
+      "酉 (bottle)",
+      "発 (emit)"
+    ],
+    "mnemonic": "Bottle emitting gas—fermentation",
+    "onyomi": "ハッ",
+    "kunyomi": "はっこう",
+    "level": "N4"
+  },
+  {
+    "character": "醤",
+    "meaning": "sauce, soy",
+    "radicals": [
+      "酉 (bottle)",
+      "将 (future)"
+    ],
+    "mnemonic": "Bottle for future meals—sauce",
+    "onyomi": "ショウ",
+    "kunyomi": "ひしお",
+    "level": "N4"
+  },
+  {
+    "character": "酵",
+    "meaning": "yeast, ferment",
+    "radicals": [
+      "酉 (bottle)",
+      "孝 (filial piety)"
+    ],
+    "mnemonic": "Bottle respecting process—yeast",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "level": "N4"
+  },
+  {
+    "character": "避",
+    "meaning": "avoid, evade",
+    "radicals": [
+      "辶 (road)",
+      "避 (evade)"
+    ],
+    "mnemonic": "Swerving on the road—avoiding",
+    "onyomi": "ヒ",
+    "kunyomi": "さ(ける)",
+    "level": "N4"
+  },
+  {
+    "character": "残",
+    "meaning": "remain, left",
+    "radicals": [
+      "歹 (bone)",
+      "残 (remain)"
+    ],
+    "mnemonic": "Bones remaining—leftovers",
+    "onyomi": "ザン",
+    "kunyomi": "のこ(る)",
+    "level": "N5"
+  },
+  {
+    "character": "焦",
+    "meaning": "burn, impatient",
+    "radicals": [
+      "火 (fire)",
+      "焦 (burnt)"
+    ],
+    "mnemonic": "Fire burning darkly—burnt",
+    "onyomi": "ショウ",
+    "kunyomi": "こ(げる)",
+    "level": "N4"
+  },
+  {
+    "character": "寒",
+    "meaning": "cold season, frigid",
+    "radicals": [
+      "宀 (roof)",
+      "寒 (cold)"
+    ],
+    "mnemonic": "Roof protecting from cold—frigid season",
+    "onyomi": "カン",
+    "kunyomi": "さむ(い)",
+    "level": "N5"
+  },
+  {
+    "character": "配",
+    "meaning": "distribute, companion",
+    "radicals": [
+      "酉 (bottle)",
+      "配 (distribute)"
+    ],
+    "mnemonic": "Bottle being distributed—shared",
+    "onyomi": "ハイ",
+    "kunyomi": "くば(る)",
+    "level": "N4"
+  },
+  {
+    "character": "対",
+    "meaning": "opposite, against",
+    "radicals": [
+      "寸 (measure)",
+      "对 (oppose)"
+    ],
+    "mnemonic": "Measuring against—opposite",
+    "onyomi": "タイ",
+    "kunyomi": "つい",
+    "level": "N5"
+  },
+  {
+    "character": "双",
+    "meaning": "pair, both",
+    "radicals": [
+      "又 (again)",
+      "又 (again)"
+    ],
+    "mnemonic": "Two hands again—a pair",
+    "onyomi": "ソウ",
+    "kunyomi": "なら(ぶ)",
+    "level": "N5"
+  },
+  {
+    "character": "独",
+    "meaning": "alone, sole",
+    "radicals": [
+      "犭 (animal)",
+      "独 (alone)"
+    ],
+    "mnemonic": "Animal alone—solitary",
+    "onyomi": "ドク",
+    "kunyomi": "ひと(り)",
+    "level": "N4"
+  },
+  {
+    "character": "共",
+    "meaning": "together, both",
+    "radicals": [
+      "共 (together)"
+    ],
+    "mnemonic": "Two people together—shared",
+    "onyomi": "キョウ",
+    "kunyomi": "とも",
+    "level": "N5"
+  },
+  {
+    "character": "伝",
+    "meaning": "transmit, tradition",
+    "radicals": [
+      "人 (person)",
+      "伝 (transmit)"
+    ],
+    "mnemonic": "Person passing on knowledge—tradition",
+    "onyomi": "デン",
+    "kunyomi": "つた(える)",
+    "level": "N4"
+  },
+  {
+    "character": "争",
+    "meaning": "fight, compete",
+    "radicals": [
+      "爫 (claw)",
+      "争 (fight)"
+    ],
+    "mnemonic": "Claws fighting—combat",
+    "onyomi": "ソウ",
+    "kunyomi": "あらそ(う)",
+    "level": "N4"
+  },
+  {
+    "character": "協",
+    "meaning": "cooperate",
+    "radicals": [
+      "十 (cross)",
+      "協 (cooperate)"
+    ],
+    "mnemonic": "Cross paths cooperating—working together",
+    "onyomi": "キョウ",
+    "kunyomi": "",
+    "level": "N4"
+  },
+  {
+    "character": "続",
+    "meaning": "continue, next",
+    "radicals": [
+      "糸 (thread)",
+      "続 (continue)"
+    ],
+    "mnemonic": "Thread unbroken—continuing",
+    "onyomi": "ゾク",
+    "kunyomi": "つづ(く)",
+    "level": "N4"
+  },
+  {
+    "character": "念",
+    "meaning": "thought, idea",
+    "radicals": [
+      "心 (heart)",
+      "今 (now)"
+    ],
+    "mnemonic": "Heart focused on now—thought",
+    "onyomi": "ネン",
+    "kunyomi": "おも(い)",
+    "level": "N4"
+  },
+  {
+    "character": "夫",
+    "meaning": "husband, man",
+    "radicals": [
+      "大 (big)",
+      "一 (one)"
+    ],
+    "mnemonic": "Big person with line—a man",
+    "onyomi": "フ",
+    "kunyomi": "おっと",
+    "level": "N5"
+  },
+  {
+    "character": "妻",
+    "meaning": "wife, woman",
+    "radicals": [
+      "女 (woman)",
+      "妻 (wife)"
+    ],
+    "mnemonic": "Woman as partner—wife",
+    "onyomi": "サイ",
+    "kunyomi": "つま",
+    "level": "N5"
+  },
+  {
+    "character": "嫁",
+    "meaning": "daughter-in-law, marry off",
+    "radicals": [
+      "女 (woman)",
+      "家 (house)"
+    ],
+    "mnemonic": "Woman entering house—bride",
+    "onyomi": "カ",
+    "kunyomi": "よめ",
+    "level": "N4"
+  },
+  {
+    "character": "婿",
+    "meaning": "son-in-law",
+    "radicals": [
+      "女 (woman)",
+      "婿 (son-in-law)"
+    ],
+    "mnemonic": "Woman accepting man—son-in-law",
+    "onyomi": "セイ",
+    "kunyomi": "むこ",
+    "level": "N4"
+  },
+  {
+    "character": "娘",
+    "meaning": "girl, daughter",
+    "radicals": [
+      "女 (woman)",
+      "良 (good)"
+    ],
+    "mnemonic": "Good woman—a girl",
+    "onyomi": "ジョウ",
+    "kunyomi": "むすめ",
+    "level": "N5"
+  },
+  {
+    "character": "息子",
+    "meaning": "son",
+    "radicals": [
+      "息 (breath)",
+      "子 (child)"
+    ],
+    "mnemonic": "Child's breath—son",
+    "onyomi": "ソク",
+    "kunyomi": "むすこ",
+    "level": "N5"
+  },
+  {
+    "character": "孫",
+    "meaning": "grandchild",
+    "radicals": [
+      "子 (child)",
+      "孫 (grandchild)"
+    ],
+    "mnemonic": "Child of child—grandchild",
+    "onyomi": "ソン",
+    "kunyomi": "まご",
+    "level": "N5"
+  },
+  {
+    "character": "親",
+    "meaning": "parent",
+    "radicals": [
+      "立 (stand)",
+      "木 (tree)",
+      "見 (see)"
+    ],
+    "mnemonic": "Standing by the tree watching—parent",
+    "onyomi": "シン",
+    "kunyomi": "おや",
+    "level": "N5"
+  },
+  {
+    "character": "糸",
+    "meaning": "thread, silk",
+    "radicals": [
+      "糸 (thread)"
+    ],
+    "mnemonic": "Fine thread—silk",
+    "onyomi": "シ",
+    "kunyomi": "いと",
+    "level": "N5"
+  },
+  {
+    "character": "布",
+    "meaning": "cloth, fabric",
+    "radicals": [
+      "巾 (cloth)",
+      "父 (father)"
+    ],
+    "mnemonic": "Cloth made by father—fabric",
+    "onyomi": "フ",
+    "kunyomi": "ぬの",
+    "level": "N5"
+  },
+  {
+    "character": "革",
+    "meaning": "leather, hide",
+    "radicals": [
+      "革 (leather)"
+    ],
+    "mnemonic": "Treated hide—leather",
+    "onyomi": "カク",
+    "kunyomi": "かわ",
+    "level": "N5"
+  },
+  {
+    "character": "綿",
+    "meaning": "cotton",
+    "radicals": [
+      "糸 (thread)",
+      "綿 (cotton)"
+    ],
+    "mnemonic": "Thread from plant—cotton",
+    "onyomi": "メン",
+    "kunyomi": "わた",
+    "level": "N4"
+  },
+  {
+    "character": "毛",
+    "meaning": "hair, fur",
+    "radicals": [
+      "毛 (hair)"
+    ],
+    "mnemonic": "Picture of hair—fur",
+    "onyomi": "モウ",
+    "kunyomi": "け",
+    "level": "N5"
+  },
+  {
+    "character": "皮",
+    "meaning": "skin, hide",
+    "radicals": [
+      "皮 (skin)"
+    ],
+    "mnemonic": "Outer surface—skin",
+    "onyomi": "ヒ",
+    "kunyomi": "かわ",
+    "level": "N5"
+  },
+  {
+    "character": "霜",
+    "meaning": "frost",
+    "radicals": [
+      "雨 (rain)",
+      "霜 (frost)"
+    ],
+    "mnemonic": "Rain freezing into crystals—frost",
+    "onyomi": "ソウ",
+    "kunyomi": "しも",
+    "level": "N4"
+  },
+  {
+    "character": "氷",
+    "meaning": "ice",
+    "radicals": [
+      "氵 (water)",
+      "水 (water)"
+    ],
+    "mnemonic": "Water turned solid—ice",
+    "onyomi": "ヒョウ",
+    "kunyomi": "こおり",
+    "level": "N5"
+  },
+  {
+    "character": "露",
+    "meaning": "dew",
+    "radicals": [
+      "雨 (rain)",
+      "路 (path)"
+    ],
+    "mnemonic": "Rain on the path—dewdrops",
+    "onyomi": "ロ",
+    "kunyomi": "つゆ",
+    "level": "N4"
+  },
+  {
+    "character": "嵐",
+    "meaning": "storm, tempest",
+    "radicals": [
+      "山 (mountain)",
+      "嵐 (storm)"
+    ],
+    "mnemonic": "Mountain battered by wind—storm",
+    "onyomi": "ラン",
+    "kunyomi": "あらし",
+    "level": "N4"
+  },
+  {
+    "character": "晴",
+    "meaning": "clear, sunny",
+    "radicals": [
+      "日 (sun)",
+      "晴 (clear)"
+    ],
+    "mnemonic": "Sun shining clearly—sunny",
+    "onyomi": "セイ",
+    "kunyomi": "は(れる)",
+    "level": "N5"
+  },
+  {
+    "character": "曇",
+    "meaning": "cloudy, overcast",
+    "radicals": [
+      "日 (sun)",
+      "雲 (cloud)"
+    ],
+    "mnemonic": "Sun covered by clouds—cloudy",
+    "onyomi": "ドン",
+    "kunyomi": "くも(る)",
+    "level": "N5"
+  },
+  {
+    "character": "霧",
+    "meaning": "fog, mist",
+    "radicals": [
+      "雨 (rain)",
+      "霧 (fog)"
+    ],
+    "mnemonic": "Rain so fine it's vapor—fog",
+    "onyomi": "ム",
+    "kunyomi": "きり",
+    "level": "N4"
+  },
+  {
+    "character": "虹",
+    "meaning": "rainbow",
+    "radicals": [
+      "虫 (insect)",
+      "虹 (rainbow)"
+    ],
+    "mnemonic": "Insects seeing color—rainbow",
+    "onyomi": "コウ",
+    "kunyomi": "にじ",
+    "level": "N4"
+  },
+  {
+    "character": "希",
+    "meaning": "hope, rare",
+    "radicals": [
+      "巾 (cloth)",
+      "希 (rare)"
+    ],
+    "mnemonic": "Cloth stretched thin—rare hope",
+    "onyomi": "キ",
+    "kunyomi": "まれ",
+    "level": "N5"
+  },
+  {
+    "character": "望",
+    "meaning": "hope, look, full moon",
+    "radicals": [
+      "月 (moon)",
+      "望 (look)"
+    ],
+    "mnemonic": "Looking at the full moon—hope",
+    "onyomi": "ボウ",
+    "kunyomi": "のぞ(む)",
+    "level": "N5"
+  },
+  {
+    "character": "怖",
+    "meaning": "fear, frightened",
+    "radicals": [
+      "心 (heart)",
+      "布 (cloth)"
+    ],
+    "mnemonic": "Heart wrapped in cloth—fear",
+    "onyomi": "フ",
+    "kunyomi": "こわ(い)",
+    "level": "N4"
+  },
+  {
+    "character": "恐",
+    "meaning": "fear, terrible",
+    "radicals": [
+      "心 (heart)",
+      "恐 (fear)"
+    ],
+    "mnemonic": "Heart trembling—fear",
+    "onyomi": "キョウ",
+    "kunyomi": "おそ(れる)",
+    "level": "N4"
+  },
+  {
+    "character": "誤",
+    "meaning": "mistake, error",
+    "radicals": [
+      "言 (say)",
+      "誤 (mistake)"
+    ],
+    "mnemonic": "Words spoken wrong—error",
+    "onyomi": "ゴ",
+    "kunyomi": "あやま(り)",
+    "level": "N4"
+  },
+  {
+    "character": "疑",
+    "meaning": "doubt, suspect",
+    "radicals": [
+      "疋 (foot)",
+      "疑 (doubt)"
+    ],
+    "mnemonic": "Foot hesitating—doubt",
+    "onyomi": "ギ",
+    "kunyomi": "うたが(う)",
+    "level": "N4"
+  },
+  {
+    "character": "確",
+    "meaning": "certain, sure",
+    "radicals": [
+      "石 (stone)",
+      "確 (certain)"
+    ],
+    "mnemonic": "Stone solid—certain",
+    "onyomi": "カク",
+    "kunyomi": "たし(か)",
+    "level": "N4"
+  },
+  {
+    "character": "判",
+    "meaning": "judge, seal",
+    "radicals": [
+      "八 (eight)",
+      "判 (judge)"
+    ],
+    "mnemonic": "Eight considerations—judgment",
+    "onyomi": "ハン",
+    "kunyomi": "わ(かる)",
+    "level": "N5"
+  },
+  {
+    "character": "決",
+    "meaning": "decide, resolute",
+    "radicals": [
+      "水 (water)",
+      "决 (decide)"
+    ],
+    "mnemonic": "Water cutting through—decisive",
+    "onyomi": "ケツ",
+    "kunyomi": "き(める)",
+    "level": "N5"
+  },
+  {
+    "character": "実",
+    "meaning": "real, truth, fruit",
+    "radicals": [
+      "宀 (roof)",
+      "実 (real)"
+    ],
+    "mnemonic": "Roof protecting truth—real",
+    "onyomi": "ジツ",
+    "kunyomi": "み",
+    "level": "N5"
+  },
+  {
+    "character": "証",
+    "meaning": "proof, evidence",
+    "radicals": [
+      "言 (say)",
+      "証 (proof)"
+    ],
+    "mnemonic": "Words proving—evidence",
+    "onyomi": "ショウ",
+    "kunyomi": "あかし",
+    "level": "N4"
+  },
+  {
+    "character": "記",
+    "meaning": "record, write down",
+    "radicals": [
+      "言 (say)",
+      "記 (record)"
+    ],
+    "mnemonic": "Words written down—record",
+    "onyomi": "キ",
+    "kunyomi": "しるす",
+    "level": "N5"
+  },
+  {
+    "character": "忘",
+    "meaning": "forget",
+    "radicals": [
+      "心 (heart)",
+      "亡 (perish)"
+    ],
+    "mnemonic": "Heart losing memories—forget",
+    "onyomi": "ボウ",
+    "kunyomi": "わす(れる)",
+    "level": "N5"
+  },
+  {
+    "character": "覚",
+    "meaning": "awake, remember",
+    "radicals": [
+      "覀 (west)",
+      "覚 (awake)"
+    ],
+    "mnemonic": "Waking to the west—awakening",
+    "onyomi": "カク",
+    "kunyomi": "さ(める)",
+    "level": "N4"
+  },
+  {
+    "character": "注",
+    "meaning": "pour, attention",
+    "radicals": [
+      "氵 (water)",
+      "注 (pour)"
+    ],
+    "mnemonic": "Water pouring—attention",
+    "onyomi": "チュウ",
+    "kunyomi": "そそ(ぐ)",
+    "level": "N5"
+  },
+  {
+    "character": "視",
+    "meaning": "look at, view",
+    "radicals": [
+      "言 (say)",
+      "視 (view)"
+    ],
+    "mnemonic": "Words seen—viewing",
+    "onyomi": "シ",
+    "kunyomi": "み(る)",
+    "level": "N4"
+  },
+  {
+    "character": "向",
+    "meaning": "face, towards",
+    "radicals": [
+      "向 (face)"
+    ],
+    "mnemonic": "Face turned—towards",
+    "onyomi": "コウ",
+    "kunyomi": "む(く)",
+    "level": "N5"
+  },
+  {
+    "character": "並",
+    "meaning": "line up, equal",
+    "radicals": [
+      "立 (stand)",
+      "並 (line up)"
+    ],
+    "mnemonic": "Standing in line—parallel",
+    "onyomi": "ヘイ",
+    "kunyomi": "なら(ぶ)",
+    "level": "N5"
+  },
+  {
+    "character": "遅",
+    "meaning": "late, slow",
+    "radicals": [
+      "辶 (road)",
+      "遅 (late)"
+    ],
+    "mnemonic": "Road moving slow—late",
+    "onyomi": "チ",
+    "kunyomi": "おそ(い)",
+    "level": "N5"
+  },
+  {
+    "character": "急",
+    "meaning": "urgent, hurry",
+    "radicals": [
+      "心 (heart)",
+      "急 (hurry)"
+    ],
+    "mnemonic": "Heart racing—urgent",
+    "onyomi": "キュウ",
+    "kunyomi": "いそ(ぐ)",
+    "level": "N5"
+  },
+  {
+    "character": "注意",
+    "meaning": "caution, warning",
+    "radicals": [
+      "注 (pour)",
+      "意 (intention)"
+    ],
+    "mnemonic": "Pouring attention—warning",
+    "onyomi": "チュウイ",
+    "kunyomi": "ちゅういする",
+    "level": "N4"
+  },
+  {
+    "character": "守",
+    "meaning": "protect, guard",
+    "radicals": [
+      "宀 (roof)",
+      "守 (protect)"
+    ],
+    "mnemonic": "Roof protecting—guarding",
+    "onyomi": "シュ",
+    "kunyomi": "まも(る)",
+    "level": "N5"
+  },
+  {
+    "character": "攻",
+    "meaning": "attack, assault",
+    "radicals": [
+      "攴 (strike)",
+      "工 (craft)"
+    ],
+    "mnemonic": "Striking with craft—attacking",
+    "onyomi": "コウ",
+    "kunyomi": "せ(める)",
+    "level": "N4"
+  },
+  {
+    "character": "逃",
+    "meaning": "escape, flee",
+    "radicals": [
+      "辶 (road)",
+      "逃 (escape)"
+    ],
+    "mnemonic": "Running on road—escaping",
+    "onyomi": "トウ",
+    "kunyomi": "に(げる)",
+    "level": "N4"
+  },
+  {
+    "character": "成",
+    "meaning": "become, complete",
+    "radicals": [
+      "戈 (halberd)",
+      "成 (complete)"
+    ],
+    "mnemonic": "Weapon sharpened—complete",
+    "onyomi": "セイ",
+    "kunyomi": "な(る)",
+    "level": "N5"
+  },
+  {
+    "character": "失",
+    "meaning": "lose, miss",
+    "radicals": [
+      "失 (lose)"
+    ],
+    "mnemonic": "Things disappearing—loss",
+    "onyomi": "シツ",
+    "kunyomi": "う(しなう)",
+    "level": "N5"
+  },
+  {
+    "character": "捨",
+    "meaning": "throw away, abandon",
+    "radicals": [
+      "手 (hand)",
+      "捨 (throw)"
+    ],
+    "mnemonic": "Hand releasing—throwing away",
+    "onyomi": "シャ",
+    "kunyomi": "す(てる)",
+    "level": "N4"
+  },
+  {
+    "character": "集",
+    "meaning": "gather, collect",
+    "radicals": [
+      "隶 (slave)",
+      "集 (gather)"
+    ],
+    "mnemonic": "People gathering—collecting",
+    "onyomi": "シュウ",
+    "kunyomi": "あつ(める)",
+    "level": "N5"
+  },
+  {
+    "character": "分",
+    "meaning": "divide, part",
+    "radicals": [
+      "八 (eight)",
+      "刀 (sword)"
+    ],
+    "mnemonic": "Sword dividing—splitting",
+    "onyomi": "ブン",
+    "kunyomi": "わ(ける)",
+    "level": "N5"
+  },
+  {
+    "character": "変",
+    "meaning": "change, strange",
+    "radicals": [
+      "夭 (bend)",
+      "変 (strange)"
+    ],
+    "mnemonic": "Bending strangely—changing",
+    "onyomi": "ヘン",
+    "kunyomi": "か(わる)",
+    "level": "N5"
+  },
+  {
+    "character": "同",
+    "meaning": "same, alike",
+    "radicals": [
+      "口 (mouth)",
+      "同 (same)"
+    ],
+    "mnemonic": "Mouths saying same thing—alike",
+    "onyomi": "ドウ",
+    "kunyomi": "おな(じ)",
+    "level": "N5"
+  },
+  {
+    "character": "異",
+    "meaning": "different, strange",
+    "radicals": [
+      "異 (different)"
+    ],
+    "mnemonic": "Clearly not the same—different",
+    "onyomi": "イ",
+    "kunyomi": "こと(なる)",
+    "level": "N4"
+  },
+  {
+    "character": "別",
+    "meaning": "separate, different",
+    "radicals": [
+      "刀 (sword)",
+      "別 (separate)"
+    ],
+    "mnemonic": "Sword cutting apart—separate",
+    "onyomi": "ベツ",
+    "kunyomi": "わ(かれる)",
+    "level": "N5"
+  }
+]
