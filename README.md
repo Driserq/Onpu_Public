@@ -2,6 +2,9 @@
 
 Onpu is a native iOS application built to help users learn Japanese through music. It takes raw song lyrics and uses AI to provide detailed linguistic breakdown and translations.
 
+<img src="mockup.png" width="400" alt="App Mockup">
+
+
 ## Functionality
 
 The main goal of the app is to make Japanese lyrics accessible and easy to study.
