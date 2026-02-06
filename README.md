@@ -29,15 +29,3 @@ The repository is organized into three main folders.
 *   **Uta**: This folder contains the iOS application code including Views, Models, and ViewModels.
 *   **backend**: This contains the server side code for handling AI requests.
 *   **landing**: This holds a Next.js web project for the app's landing page.
-
-## Getting Started
-
-You will need Xcode 15 or newer to run the iOS application.
-
-1.  Open the `Uta.xcodeproj` file.
-2.  Select a simulator or connected device.
-3.  Build and run the project.
-
-The app requires the backend service to be running for adding new songs. You can find instructions for setting up the local server in the `backend` folder.
-
-See `BACKEND_SETUP.md` for detailed instructions on configuring the local backend and iOS app connection.
